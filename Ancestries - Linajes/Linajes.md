@@ -1,4 +1,4 @@
-#Enano
+# Enano
 Fuente Core Rulebook pg. 34
 Descripción General
 Los enanos tienen una reputación bien ganada de se gente estoica y severa, asentados dentro de ciudadelas y ciudades talladas de piedra solida. Mientras que algunos los ven como artesanos de piedra metal adustos y sin sentido del humor, los enanos y todos quienes hayan pasado tiempo entre ellos entiende que su desenfrenado celo por su trabajo, el cual valora más la calidad que la cantidad. Para un extraño, puede que se vean suspicaces y exclusivistas, pero hacia sus amigos y familia, son cálidos y cariñosos, llenando sus salones de risas y martillos golpeando yunques.

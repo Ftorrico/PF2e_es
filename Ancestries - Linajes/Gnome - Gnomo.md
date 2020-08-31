@@ -20,7 +20,7 @@ Otros probablemente…
 ## Datos Técnicos
 **Puntos de golpe**: 8  
 **Tamaño**: Pequeño  
-**Velocidad**: 25 pies  
+**Velocidad**: 25 pies (7,5 metros)  
 **Incremento de Característica**: Constitución, Carisma, un incremento de característica a libre elección  
 **Defecto de Característica**: Fuerza  
 **Idiomas**: Común, Gnomo, Silvano  

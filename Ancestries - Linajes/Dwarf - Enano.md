@@ -6,7 +6,7 @@
 
 Los enanos se toman su tiempo para confiar en alguien de su parentesco, pero esta cautela no viene sin razón alguna. Los enanos tienen una larga historia de exilio forzado desde dominios ancestrales y de conflictos contra la depredación de feroces adversarios, especialmente gigantes, goblinoides, orcos, y los horrores que yacen bajo la superficie. Si bien la confianza de un enano es difícil de conseguir, una vez obtenida es tan fuerte como el hierro. 
 
-Si quieres jugar un personaje duro como clavo, un explorador terco e implacable, con una mezcla de aspera fortaleza y profunda sabiduría – o al menos convicción tenaz – podrías jugar un enano.
+Si quieres jugar un personaje duro como clavo, un explorador terco e implacable, con una mezcla de áspera fortaleza y profunda sabiduría – o al menos convicción tenaz – podrías jugar un enano.
 
 Puede que…
 * Busques defender tu honor personal, sin importar la situación.
@@ -53,15 +53,15 @@ Los héroes enanos de antaño podían sobreponerse a la magia de sus enemigos, y
 >INVOCAR SANGRE ANCESTRAL [reacción]                                                                                      
 >**Gatillo** Debes hacer una tirada de salvación contra un efecto mágico, pero aun no haz hecho la tirada.                                                                                                                                                   
 >La resistencia a la magia innata propia de tus ancestros aflora de golpe, bajando en intensidad lentamente hasta desaparecer. Ganas un bonificador de circunstancia +1 a la tirada de salvación gatillante y además hasta el final de este turno.
-### Enano celador de la muerte
+### Enano Celador de la Muerte
 Tus ancestros han sido guardianes de tumbas por generaciones, y el poder que han cultivado para protegerse para protegerse de la nigromancia se te ha transmitido. Si lanzas un éxito en una tirada de salvación contra un efecto de nigromancia, obtienes en cambio un éxito crítico.
-### Enano de la forja
-Tienes una adaptación extraordinaria a ambientes calientes proveniente de tus ancestros que habitaron abrasadores desiertos o camaras volcanicas bajo la tierra. Esto te proporciona resistencia al fuego equivalente a la mitad de tu nivel (minimo 1), y tratas cualquier efecto de calor ambiental como si fuera un paso menos extremo (Calor increíble se vuelve extremo, calor extremo se vuelve severo y así sucesivamente).
-### Enano de la roca
+### Enano de la Forja
+Tienes una adaptación extraordinaria a ambientes calientes proveniente de tus ancestros que habitaron abrasadores desiertos o cámaras volcánicas bajo la tierra. Esto te proporciona resistencia al fuego equivalente a la mitad de tu nivel (mínimo 1), y tratas cualquier efecto de calor ambiental como si fuera un paso menos extremo (Calor increíble se vuelve extremo, calor extremo se vuelve severo y así sucesivamente).
+### Enano de la Roca
 Tus ancestros vivieron y trabajaron entre las grandes piedras ancestrales de las montañas o en las profundidades de la tierra. Esto te vuelve tan solido como la roca cuando te plantas firmemente. Ganas un bonificador de circunstancia +2 a tu CD de Fortaleza y Reflejo contra intentos de Empujar o Hacerte Tropezar. Este bonificador también se aplica a tiradas de salvación provenientes de hechizos o efectos que intenten botar al piso.
-Además, si cualquier efecto fuese a intentar moverte 10 feet o más, solo te mueves la mitad.
-### Enano de sangre fuerte
-Tu sangre corre fuerte y saludable, lo que te permite deshacerte de toxinas. Ganas resistencia al veneno igual a la mitad de tu nivel (minimo 1), y cada una de tus tiradas de salvación exitosas contra una aflicción de veneno reduce su etapa en 2, o 1 para un veneno virulento. Cada éxito crítico contra un veneno en curso reduce su efecto en 3, o en 2 para un veneno virulento.
+Además, si cualquier efecto fuese a intentar moverte 10 pies o más (3 metros), solo te mueves la mitad.
+### Enano de Sangre Fuerte
+Tu sangre corre fuerte y saludable, lo que te permite deshacerte de toxinas. Ganas resistencia al veneno igual a la mitad de tu nivel (mínimo 1), y cada una de tus tiradas de salvación exitosas contra una aflicción de veneno reduce su etapa en 2, o 1 para un veneno virulento. Cada éxito crítico contra un veneno en curso reduce su efecto en 3, o en 2 para un veneno virulento.
 ## Aventureros Enanos
 Los aventureros enanos tienden a trabajar como cazadores de tesoros o mercenarios. Suelen irse de sus ciudadelas o ciudades subterráneas en búsqueda de riquezas para su hogar o para recuperar tesoros enanos perdidos en el tiempo o tierras tomadas por enemigos de sus parientes.
 Trasfondos típicos enanos incluyen Acólito, Artesano, Mercante, Minero y Guerrero. Los enanos sobresalen en muchas de las clases marciales, como bárbaro, guerrero, monje o explorador, pero también forman excelentes clérigos y druidas.

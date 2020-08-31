@@ -21,7 +21,7 @@ Otros probablemente…
 ## Datos Técnicos
 **Puntos de golpe**: 6  
 **Tamaño**: Medio  
-**Velocidad**: 30 pies  
+**Velocidad**: 30 pies (9 metros)  
 **Incremento de Característica**: Dextreza, Inteligencia, un incremento de característica a libre elección  
 **Defecto de Característica**: Constitución  
 **Idiomas**: Común, Élfico  

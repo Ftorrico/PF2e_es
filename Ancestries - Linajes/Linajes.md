@@ -50,9 +50,9 @@ Con sus extensos arboles genealógicos y fisiologías resistentes, los enanos se
 ### Enano de sangre ancestral
 Los héroes enanos de antaño podían sobreponerse a la magia de sus enemigos, y algo de dicha resistencia se manifiesta en ti. Ganas la reacción Invocar sangre ancestral.
 
-INVOCAR SANGRE ANCESTRAL [reacción]                                                                                      
-**Gatillo** Debes hacer una tirada de salvación contra un efecto mágico, pero aun no haz hecho la tirada.                                                                                                                                                   
-La resistencia a la magia innata propia de tus ancestros aflora de golpe, bajando en intensidad lentamente hasta desaparecer. Ganas un bonificador de circunstancia +1 a la tirada de salvación gatillante y además hasta el final de este turno.
+>INVOCAR SANGRE ANCESTRAL [reacción]                                                                                      
+>**Gatillo** Debes hacer una tirada de salvación contra un efecto mágico, pero aun no haz hecho la tirada.                                                                                                                                                   
+>La resistencia a la magia innata propia de tus ancestros aflora de golpe, bajando en intensidad lentamente hasta desaparecer. Ganas un bonificador de circunstancia +1 a la tirada de salvación gatillante y además hasta el final de este turno.
 ### Enano celador de la muerte
 Tus ancestros han sido guardianes de tumbas por generaciones, y el poder que han cultivado para protegerse para protegerse de la nigromancia se te ha transmitido. Si lanzas un éxito en una tirada de salvación contra un efecto de nigromancia, obtienes en cambio un éxito crítico.
 ### Enano de la forja

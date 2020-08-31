@@ -62,6 +62,7 @@ Tus ancestros vivieron y trabajaron entre las grandes piedras ancestrales de las
 Además, si cualquier efecto fuese a intentar moverte 10 feet o más, solo te mueves la mitad.
 ### Enano de sangre fuerte
 Tu sangre corre fuerte y saludable, lo que te permite deshacerte de toxinas. Ganas resistencia al veneno igual a la mitad de tu nivel (minimo 1), y cada una de tus tiradas de salvación exitosas contra una aflicción de veneno reduce su etapa en 2, o 1 para un veneno virulento. Cada éxito crítico contra un veneno en curso reduce su efecto en 3, o en 2 para un veneno virulento.
-##Aventureros Enanos
+## Aventureros Enanos
 Los aventureros enanos tienden a trabajar como cazadores de tesoros o mercenarios. Suelen irse de sus ciudadelas o ciudades subterráneas en búsqueda de riquezas para su hogar o para recuperar tesoros enanos perdidos en el tiempo o tierras tomadas por enemigos de sus parientes.
 Trasfondos típicos enanos incluyen Acólito, Artesano, Mercante, Minero y Guerrero. Los enanos sobresalen en muchas de las clases marciales, como bárbaro, guerrero, monje o explorador, pero también forman excelentes clérigos y druidas.
+

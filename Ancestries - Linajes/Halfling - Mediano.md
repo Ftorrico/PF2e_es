@@ -10,7 +10,7 @@ Si te interesa un personaje que debe competir con estas dos motivaciones contrar
 
 Puede que…
 * Te lleves bien con una gran variedad de personas y disfrutes hacer nuevos amigos.
-* Encuentres dificil resistirte a tu curiosidad, incluso cuando sabes que te llevará a problemas.
+* Encuentres difícil resistirte a tu curiosidad, incluso cuando sabes que te llevará a problemas.
 * Tengas un profundo odio personal por la practica del esclavismo y te dediques a liberar a quienes aun les hacen trabajar contra su voluntad.
 
 Otros probablemente…

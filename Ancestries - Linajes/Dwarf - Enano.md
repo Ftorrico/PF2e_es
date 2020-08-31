@@ -21,7 +21,7 @@ Otros probablemente…
 ## Datos Técnicos
 **Puntos de golpe**: 10  
 **Tamaño**: Medio  
-**Velocidad**: 20 pies  
+**Velocidad**: 20 pies (6 metros)  
 **Incremento de Característica**: Constitución, Sabiduría, un incremento de característica a libre elección  
 **Defecto de Característica**: Carisma  
 **Idiomas**: Común, Enano  

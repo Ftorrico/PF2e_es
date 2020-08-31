@@ -19,14 +19,14 @@ Otros probablemente…
 
 
 ## Datos Técnicos
-Puntos de golpe: 10
-Tamaño: Medio
-Velocidad: 20 pies
-Incremento de Característica: Constitución, Sabiduría, un incremento de característica a libre elección
-Defecto de Característica: Carisma
-Idiomas: Común, Enano
-Idiomas adicionales: Igual a tu modificador de inteligencia (de ser positivo). Escoge entre Gnomo, Goblin, Jotun, Orco, Terraro, Infracomún y de cualquier idioma al que puedas tener acceso (como los prevalentes en tu región)
-Rasgos: Enano, Humanoide
+**Puntos de golpe**: 10  
+**Tamaño**: Medio  
+**Velocidad**: 20 pies  
+**Incremento de Característica**: Constitución, Sabiduría, un incremento de característica a libre elección  
+**Defecto de Característica**: Carisma  
+**Idiomas**: Común, Enano  
+**Idiomas adicionales**: Igual a tu modificador de inteligencia (de ser positivo). Escoge entre Gnomo, Goblin, Jotun, Orco, Terraro, Infracomún y de cualquier idioma al que puedas tener acceso (como los prevalentes en tu región  
+**Rasgos**: Enano, Humanoide  
 
 **Visión en la oscuridad**
 Puedes ver en la oscuridad y en luz tenue tan bien como lo haces en luz brillante, sin embargo ves todo en blanco y negro.

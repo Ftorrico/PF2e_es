@@ -22,7 +22,7 @@ Otros probablemente…
 **Puntos de golpe**: 6  
 **Tamaño**: Medio  
 **Velocidad**: 30 pies (9 metros)  
-**Incremento de Característica**: Dextreza, Inteligencia, un incremento de característica a libre elección  
+**Incremento de Característica**: Destreza, Inteligencia, un incremento de característica a libre elección  
 **Defecto de Característica**: Constitución  
 **Idiomas**: Común, Élfico  
 **Idiomas adicionales**: Igual a tu modificador de inteligencia (de ser positivo). Escoge entre Celestial, Dracónico, Gnoll, Gnomo, Goblin, Orco, Silvano y de cualquier idioma al que puedas tener acceso (como los prevalentes en tu región)  
@@ -54,7 +54,7 @@ Naciste o pasaste muchos años en túneles subterráneos o cavernas donde la luz
 Tienes una habilidad innata para detectar y entender fenómenos mágicos. Puedes conjurar a voluntad el truco detectar magia como un hechizo arcano innato. Un truco se aumenta a un nivel de hechizo igual a la mitad de tu nivel redondeado hacia arriba.
 Adicionalmente, ganas un bonificador de circunstancia +1 a tiradas para Identificar Magia y para Descifrar Escritura de naturaleza mágica. Estas acciones de habilidad típicamente se utilizan con la habilidad Arcana, Naturaleza, Ocultismo o Religión.
 ### Elfo de Susurros
-Tus oídos están finamente ajustados, permitiendote detectar incluso el murmullo más suave. Siempre que puedas escuchar de manera normal, puedes usar la acción Buscar para detectar criaturas en un cono de 60 pies (18 metros) en vez de 30 pies (9 metros). También ganas un bonificador de circunstancia +2 para detectar criaturas que puedas encontrar escuchando hasta 30 pies (9 metros) con la acción Buscar.
+Tus oídos están finamente ajustados, permitiéndote detectar incluso el murmullo más suave. Siempre que puedas escuchar de manera normal, puedes usar la acción Buscar para detectar criaturas en un cono de 60 pies (18 metros) en vez de 30 pies (9 metros). También ganas un bonificador de circunstancia +2 para detectar criaturas que puedas encontrar escuchando hasta 30 pies (9 metros) con la acción Buscar.
 ### Elfo del Bosque
 Estás adaptado a la vida en el bosque o la jungla, y sabes como escalar arboles y tomar ventaja del follaje. Cuando Escalas arboles, lianas u otro follaje, te mueves a la mitad de tu Velocidad con un éxito y a toda tu Velocidad en un éxito crítico (y te mueves a toda tu velocidad con un éxito si tienes Escalada Rápida). Todo esto no se aplica si estás usando una Velocidad de Escalada.
 Siempre puedes usar la acción Cubrirse cuando estás en un terreno boscoso para obtener cobertura, incluso si no tienes un obstáculo con el que podrías Cubrirte.

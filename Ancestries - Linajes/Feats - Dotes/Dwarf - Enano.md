@@ -76,7 +76,7 @@ Si un oponente no podría moverse a un espacio vacío (ya que está rodeado de o
 **Nivel**: 9  
 **Tags**: Enano  
 **Requisito**: -  
-**Descripción**: Tienes gran respeto y conexión con la piedra. Ganas Fundirse con la piedra como un hechizo divino innato de nivel 3 que puedes lanzar una vez al día.  
+**Descripción**: Tienes gran respeto y conexión con la piedra. Ganas *Fundirse con la piedra* como un hechizo divino innato de nivel 3 que puedes lanzar una vez al día.  
 Si tienes la dote de linaje enana Afinidad con la Piedra, puedes intentar encontrar mampostería inusual y trampas hechas con piedra que requieran competencia Legendaria en Percepción. Si tienes tanto Afinidad con la Piedra como competencia Legendaria en Percepción, cuando no estás Buscando y el DJ hace una tirada secreta para que te des cuenta de mampostería inusual, mantienes tu bonificador proveniente de Afinidad con la Piedra y no recibes el penalizador de circunstancia -2.  
 ## Expertise en Armas Enanas
 **Nombre original**: Dwarven Weapon Expertise  

@@ -9,10 +9,10 @@ Traducción a español de Pathfinder segunda edición
   - [x] Goblin - Goblin
   - [x] Halfling - Mediano
   - [x] Human - Humano
-- [] Dotes de linaje
+- [ ] Dotes de linaje
   - [x] Dwarf - Enano
-  - [] Elf - Elfo
-  - [] Gnome - Gnomo
-  - [] Goblin - Goblin
-  - [] Halfling - Mediano
-  - [] Human - Humano 
+  - [ ] Elf - Elfo
+  - [ ] Gnome - Gnomo
+  - [ ] Goblin - Goblin
+  - [ ] Halfling - Mediano
+  - [ ] Human - Humano 

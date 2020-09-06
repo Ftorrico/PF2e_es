@@ -108,4 +108,4 @@ Cuando los efectos de Longevidad Ancestral y Longevidad Experta terminan, puedes
 **Nivel**: 13  
 **Tags**: Elfo  
 **Requisito**: -  
-**Descripción**: Tu afinidad élfica se mezcla con tu entrenamiento de clase, otorgandote gran habilidad con armas élficas. Cuando obtienes un rasgo de clase que te entrega competencia Experta o superior en ciertas armas, también ganas esa competencia con arco largo, arco largo compuesto, espada larga, rapier, arco corto, arco corto compuesto y todas las armas élficas en las que estés entrenado.  
+**Descripción**: Tu afinidad élfica se mezcla con tu entrenamiento de clase, otorgándote gran habilidad con armas élficas. Cuando obtienes un rasgo de clase que te entrega competencia Experta o superior en ciertas armas, también ganas esa competencia con arco largo, arco largo compuesto, espada larga, rapier, arco corto, arco corto compuesto y todas las armas élficas en las que estés entrenado.  

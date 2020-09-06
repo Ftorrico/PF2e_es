@@ -10,7 +10,7 @@ Nombre | Original | Nivel mínimo | Requisito
 [Familiaridad con Armas Gnomo](#familiaridad-con-armas-gnomo) | Gnome Weapon Familiarity | 1 | -
 [Sentido ante Ilusiones](#sentido-ante-ilusiones) | Illusion Sense | 1 | -
 [Orador con Animales](#orador-con-animales) | Animal Elocutionist | 5 | Orador de Madriguera
-[Fuente Energizada](#fuente-energizada) | Energized Font | 5 | *Reserva de foco, por lo menos un hechizo innato de una herencia gnomo o dote de linaje que comparta una tradición con al menos uno de tus hechizos de foco.*
+[Fuente Energizada](#fuente-energizada) | Energized Font | 5 | *Reserva de foco.<br/>Por lo menos un hechizo innato de una herencia gnomo o dote<br/> de linaje que comparta una tradición con al menos uno de tus hechizos de foco.*
 [Innovador con Armas Gnomo](#innovador-con-armas-gnomo) | Gnome Weapon Innovator | 5 | Familiaridad con Armas Gnomo
 [Adepto al Primer Mundo](#adepto-al-primer-mundo) | First World Adept | 9 | *Al menos un hechizo primal innato*
 [Conducto Vivaz](#conducto-vivaz) | Vivacious Conduit | 9 | -

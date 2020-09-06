@@ -1,4 +1,4 @@
-#Gnomo
+# Gnomo
 ## Tabla resumen
 Nombre | Original | Nivel mínimo | Requisito
 ------------ | ------------- | ------------- | -------------

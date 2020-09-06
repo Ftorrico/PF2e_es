@@ -2,17 +2,17 @@
 ## Tabla resumen
 Nombre | Original | Nivel mínimo | Requisito
 ------------ | ------------- | ------------- | -------------
-Saber de Enanos | Dwarven Lore | 1 | -
-Familiaridad con Armas Enanas | Dwarven Weapon Familiarity | 1 | -
-Corredor en Rocas | Rock Runner | 1 | -
-Afinidad con la Piedra | Stonecunning | 1 | -
-Hierro Inabrumable | Unburdened Iron | 1 | -
-Rencor Vengativo | Vengeful Hatred | 1 | -
-Empujón de Peñasco | Boulder Roll | 5 | Corredor en Rocas
-Astucia con Armas Enanas | Dwarven Weapon Cunning | 5 | Familiaridad con Armas Enanas
-Robusto como Montaña | Mountain's Stoutness | 9 | -
-Caminante en la Piedra | Stonewalker | 9 | -
-Expertise en Armas Enanas | Dwarven Weapon Expertise | 13 | Familiaridad con Armas Enanas
+[Saber de Enanos](#saber-de-enanos) | Dwarven Lore | 1 | -
+[Familiaridad con Armas Enanas](#familiaridad-con-armas-enanas) | Dwarven Weapon Familiarity | 1 | -
+[Corredor en Rocas](#corredor-en-rocas) | Rock Runner | 1 | -
+[Afinidad con la Piedra](#afinidad-con-la-piedra) | Stonecunning | 1 | -
+[Hierro Inabrumable](#hierro-inabrumable) | Unburdened Iron | 1 | -
+[Rencor Vengativo](#rencor-vengativo) | Vengeful Hatred | 1 | -
+[Empujón de Peñasco](#empujón-de-peñasco) | Boulder Roll | 5 | Corredor en Rocas
+[Astucia con Armas Enanas](#astucia-con-armas-enanas) | Dwarven Weapon Cunning | 5 | Familiaridad con Armas Enanas
+[Robusto como Montaña](#robusto-como-montaña) | Mountain's Stoutness | 9 | -
+[Caminante en la Piedra](#caminante-en-la-piedra) | Stonewalker | 9 | -
+[Expertise en Armas Enanas](#expertise-en-armas-enanas) | Dwarven Weapon Expertise | 13 | Familiaridad con Armas Enanas
 
 ## Saber de Enanos
 **Nombre original**: Dwarven Lore  

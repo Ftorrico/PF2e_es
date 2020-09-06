@@ -11,7 +11,7 @@ Traducción a español de Pathfinder segunda edición
   - [x] Human - Humano
 - [ ] Dotes de linaje
   - [x] Dwarf - Enano
-  - [ ] Elf - Elfo
+  - [x] Elf - Elfo
   - [ ] Gnome - Gnomo
   - [ ] Goblin - Goblin
   - [ ] Halfling - Mediano

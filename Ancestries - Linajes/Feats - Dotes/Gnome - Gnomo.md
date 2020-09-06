@@ -3,18 +3,18 @@
 Nombre | Original | Nivel mínimo | Requisito
 ------------ | ------------- | ------------- | -------------
 [Cómplice Animal](#cómplice-animal) | Animal Accomplice | 1 | -
-Orador de Madriguera | Burrow Elocutionist | 1 | -
-Hermandad Feérica | Fey Fellowship | 1 | -
-Magia del Primer Mundo | First World Magic | 1 | -
-Obsesión de Gnomo | Gnome Obsession | 1 | -
-Familiaridad con Armas Gnomo | Gnome Weapon Familiarity | 1 | -
-Sentido ante Ilusiones | Illusion Sense | 1 | -
-Orador con Animales | Animal Elocutionist | 5 | Orador de Madriguera
-Fuente Energizada | Energized Font | 5 | *Reserva de foco, por lo menos un hechizo innato de una herencia gnomo o dote de linaje que comparta una tradición con al menos uno de tus hechizos de foco.*
-Innovador con Armas Gnomo | Gnome Weapon Innovator | 5 | Familiaridad con Armas Gnomo
-Adepto al Primer Mundo | First World Adept | 9 | *Al menos un hechizo primal innato*
-Conducto Vivaz | Vivacious Conduit | 9 | -
-Expertise con Armas Gnomo | Gnome Weapon Expertise | 13 | Familiaridad con Armas Gnomo
+[Orador de Madriguera](#orador-de-madriguera) | Burrow Elocutionist | 1 | -
+[Hermandad Feérica](#hermandad-feérica) | Fey Fellowship | 1 | -
+[Magia del Primer Mundo](#magia-del-primer-mundo) | First World Magic | 1 | -
+[Obsesión de Gnomo](#obsesión-de-gnomo) | Gnome Obsession | 1 | -
+[Familiaridad con Armas Gnomo](#familiaridad-con-armas-gnomo) | Gnome Weapon Familiarity | 1 | -
+[Sentido ante Ilusiones](#sentido-ante-ilusiones) | Illusion Sense | 1 | -
+[Orador con Animales](#orador-con-animales) | Animal Elocutionist | 5 | Orador de Madriguera
+[Fuente Energizada](#fuente-energizada) | Energized Font | 5 | *Reserva de foco, por lo menos un hechizo innato de una herencia gnomo o dote de linaje que comparta una tradición con al menos uno de tus hechizos de foco.*
+[Innovador con Armas Gnomo](#innovador-con-armas-gnomo) | Gnome Weapon Innovator | 5 | Familiaridad con Armas Gnomo
+[Adepto al Primer Mundo](#adepto-al-primer-mundo) | First World Adept | 9 | *Al menos un hechizo primal innato*
+[Conducto Vivaz](#conducto-vivaz) | Vivacious Conduit | 9 | -
+[Expertise con Armas Gnomo](#expertise-con-armas-gnomo) | Gnome Weapon Expertise | 13 | Familiaridad con Armas Gnomo
 ## Cómplice Animal
 **Nombre original**: Animal Accomplice  
 **Tipo**: Capacidad  

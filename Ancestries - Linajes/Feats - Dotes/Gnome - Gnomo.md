@@ -2,7 +2,7 @@
 ## Tabla resumen
 Nombre | Original | Nivel mínimo | Requisito
 ------------ | ------------- | ------------- | -------------
-[Cómplice Animal](#complice-animal) | Animal Accomplice | 1 | -
+[Cómplice Animal](#cómplice-animal) | Animal Accomplice | 1 | -
 Orador de Madriguera | Burrow Elocutionist | 1 | -
 Hermandad Feérica | Fey Fellowship | 1 | -
 Magia del Primer Mundo | First World Magic | 1 | -

@@ -12,7 +12,7 @@ Traducción a español de Pathfinder segunda edición
 - [ ] Dotes de linaje
   - [x] Dwarf - Enano
   - [x] Elf - Elfo
-  - [ ] Gnome - Gnomo
+  - [x] Gnome - Gnomo
   - [ ] Goblin - Goblin
   - [ ] Halfling - Mediano
   - [ ] Human - Humano 

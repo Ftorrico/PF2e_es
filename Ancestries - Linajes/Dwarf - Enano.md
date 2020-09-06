@@ -2,7 +2,7 @@
 *Fuente Core Rulebook pg. 34*
 
 ## Descripción General
-*Los enanos tienen una reputación bien ganada de se gente estoica y severa, asentados dentro de ciudadelas y ciudades talladas de piedra solida. Mientras que algunos los ven como artesanos de piedra metal adustos y sin sentido del humor, los enanos y todos quienes hayan pasado tiempo entre ellos entiende que su desenfrenado celo por su trabajo, el cual valora más la calidad que la cantidad. Para un extraño, puede que se vean suspicaces y exclusivistas, pero hacia sus amigos y familia, son cálidos y cariñosos, llenando sus salones de risas y martillos golpeando yunques.*
+*Los enanos tienen una reputación bien ganada de ser gente estoica y severa, asentados dentro de ciudadelas y ciudades talladas de piedra solida. Mientras que algunos los ven como artesanos de piedra metal adustos y sin sentido del humor, los enanos y todos quienes hayan pasado tiempo entre ellos entiende que su desenfrenado celo por su trabajo, el cual valora más la calidad que la cantidad. Para un extraño, puede que se vean suspicaces y exclusivistas, pero hacia sus amigos y familia, son cálidos y cariñosos, llenando sus salones de risas y martillos golpeando yunques.*
 
 Los enanos se toman su tiempo para confiar en alguien de su parentesco, pero esta cautela no viene sin razón alguna. Los enanos tienen una larga historia de exilio forzado desde dominios ancestrales y de conflictos contra la depredación de feroces adversarios, especialmente gigantes, goblinoides, orcos, y los horrores que yacen bajo la superficie. Si bien la confianza de un enano es difícil de conseguir, una vez obtenida es tan fuerte como el hierro. 
 

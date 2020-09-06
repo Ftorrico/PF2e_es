@@ -2,19 +2,19 @@
 ## Tabla resumen
 Nombre | Original | Nivel mínimo | Requisito
 ------------ | ------------- | ------------- | -------------
-Longevidad Ancestral | Ancestral Longevity  | 1 | -
-Saber de Elfos | Elf Lore | 1 | -
-Familiaridad con Armas Élficas | Elven Weapon Familiarity   | 1 | -
-Desamparado | Forlorn | 1 | -
-Elfo Ágil | Nimble Elf | 1 | -
-Magia Sobrenatural | Otherworldly Magic | 1 | -
-Apariencia Inquebrantable | Unwavering Mien | 1 | -
-Paciencia Intemporal | Ageless Patience | 5 | -
-Elegancia con Armas Élficas | Elven Weapon Elegance | 5 | Familiaridad con Armas Élficas
-Paso de Elfo | Elf Step | 9 | -
-Longevidad Experta | Expert Longevity | 9 | Longevidad Ancestral
-Longevidad Universal | Universal Longevity | 13 | Longevidad Experta
-Expertise con Armas Élficas | Elven Weapon Expertise | 13 | Familiaridad con Armas Élficas
+[Longevidad Ancestral](#longevidad-ancestral) | Ancestral Longevity  | 1 | -
+[Saber de Elfos](#saber-de-elfos) | Elf Lore | 1 | -
+[Familiaridad con Armas Élficas](#familiaridad-con-armas-élficas) | Elven Weapon Familiarity   | 1 | -
+[Desamparado](#desamparado) | Forlorn | 1 | -
+[Elfo Ágil](#elfo-ágil) | Nimble Elf | 1 | -
+[Magia Sobrenatural](#magia-sobrenatural) | Otherworldly Magic | 1 | -
+[Apariencia Inquebrantable](#apariencia-inquebrantable) | Unwavering Mien | 1 | -
+[Paciencia Intemporal](#paciencia-intemporal) | Ageless Patience | 5 | -
+[Elegancia con Armas Élficas](#elegancia-con-armas-élficas) | Elven Weapon Elegance | 5 | Familiaridad con Armas Élficas
+[Paso de Elfo](#paso-de-elfo) | Elf Step | 9 | -
+[Longevidad Experta](#longevidad-experta) | Expert Longevity | 9 | Longevidad Ancestral
+[Longevidad Universal](#longevidad-universal) | Universal Longevity | 13 | Longevidad Experta
+[Expertise con Armas Élficas](#expertise-con-armas-élficas) | Elven Weapon Expertise | 13 | Familiaridad con Armas Élficas
 ## Longevidad Ancestral
 **Nombre original**: Ancestral Longevity  
 **Tipo**: Capacidad  

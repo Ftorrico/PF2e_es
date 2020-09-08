@@ -16,3 +16,5 @@ Traducción a español de Pathfinder segunda edición
   - [x] Goblin - Goblin
   - [ ] Halfling - Mediano
   - [ ] Human - Humano 
+  ### Backgrounds - Trasfondos
+- [x] 35/35 Trasfondos

@@ -1,4 +1,4 @@
-# Elfo
+# Dotes
 ## Tabla resumen
 Nombre | Original | Nivel mínimo | Requisito
 ------------ | ------------- | ------------- | -------------

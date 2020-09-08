@@ -156,7 +156,7 @@ Estás Entrenado en las habilidades Supervivencia y en Saber Curtido. Ganas el D
 **Nombre original**: Laborer  
 **Descripción**: Estuviste años ejerciendo arduo trabajo físico. Fue una vida difícil, pero de alguna forma sobreviviste. Puede que hayas acogido la vida de aventuras como un método más fácil de poder vivir, o puede que lo estés haciendo bajo órdenes de alguien más.  
 Escoge dos incrementos de característica. Uno de ellos debe ser Fuerza o Constitución; el otro es a libre elección.  
-Estás Entrenado en las habilidades Atletismo y en Sabero Obrero. Ganas el Dote de Habilidad Cargador Fuerte.  
+Estás Entrenado en las habilidades Atletismo y en Saber Obrero. Ganas el Dote de Habilidad Cargador Fuerte.  
 ## Discípulo Marcial
 **Nombre original**: Martial Disciple  
 **Descripción**: Te dedicaste a entrenar intensamente y estudiar rigurosamente para convertirte en un gran guerrero. La escuela a la que fuiste pudo haber sido un monasterio tradicionalista, una academia militar de élite o una rama local de una organización de mercenarios prestigiosa.  
@@ -215,6 +215,6 @@ Escoge dos incrementos
 Estás Entrenado en las habilidades Manufactura y en Saber Ingeniería. Ganas el Dote de Habilidad Especialidad de Manufactura  
 ## Guerrero
 **Nombre original**: Warrior  
-**Descripción**: En tus años mozos, ibas a la batalla como un mercenario, un guerrero defendiedo a su gente nómada o un miembro de la milicia o ejercito. Puede que hayas querido salir de esas reglamentadas estructuras de esas fuerzas, o puede que siempre hayas querido ser un guerrero independiente como lo eres ahora.  
+**Descripción**: En tus años mozos, ibas a la batalla como un mercenario, un guerrero defendiendo a su gente nómada o un miembro de la milicia o ejercito. Puede que hayas querido salir de esas reglamentadas estructuras de esas fuerzas, o puede que siempre hayas querido ser un guerrero independiente como lo eres ahora.  
 Escoge dos incrementos de característica. Uno de ellos debe ser Fuerza o Constitución; el otro es a libre elección.  
 Estás Entrenado en las habilidades Intimidación y en Saber Guerra. Ganas el Dote de Habilidad Mirada Intimidante  

@@ -1,7 +1,10 @@
 # Pathfinder 2e a Español
 Traducción a español de Pathfinder segunda edición
 ## Progreso
-### Ancestries - Linajes
+### Resumen
+- [ ] Ancestries - Linajes
+- [x] Backgrounds - Trasfondos
+#### Ancestries - Linajes
 - [x] Descripciones
   - [x] Dwarf - Enano
   - [x] Elf - Elfo
@@ -16,5 +19,5 @@ Traducción a español de Pathfinder segunda edición
   - [x] Goblin - Goblin
   - [ ] Halfling - Mediano
   - [ ] Human - Humano 
-### Backgrounds - Trasfondos
+#### Backgrounds - Trasfondos
 - [x] 35/35 Trasfondos

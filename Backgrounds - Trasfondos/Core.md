@@ -1,5 +1,5 @@
 # Core Rulebook
-*Fuente Core Rulebook pg. 60 - 63*
+*Fuente Core Rulebook pg. 60 - 64*
 ## Tabla resumen
 Nombre | Original | Habilidad Entrenada | Saber | Dote de Habilidad | Incrementos de Característica
 ------------ | ------------- | ------------- | ------------- | ------------- | -------------

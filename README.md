@@ -13,6 +13,6 @@ Traducción a español de Pathfinder segunda edición
   - [x] Dwarf - Enano
   - [x] Elf - Elfo
   - [x] Gnome - Gnomo
-  - [ ] Goblin - Goblin
+  - [x] Goblin - Goblin
   - [ ] Halfling - Mediano
   - [ ] Human - Humano 

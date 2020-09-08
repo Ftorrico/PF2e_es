@@ -20,7 +20,7 @@ Nombre | Original | Habilidad Entrenada | Saber | Dote de Habilidad | Incremento
 [Médico de Campaña](#médico-de-campaña) | Field Medic | Medicina | Saber Guerra | Medicina de Batalla | Constitución o Sabiduría; y libre
 [Adivino](#adivino) | Fortune Teller | Ocultismo | Saber Adivino | Identificación de Rareza | Inteligencia o Carisma; y libre
 [Apostador](#apostador) | Gambler | Engaño | Saber Juegos | Miénteme | Destreza o Carisma; y libre
-[Gladiador](#gladiador) | Gladiator | Interpretar | Saber Gladiador | Interpretación Impresionante | ; y libre
+[Gladiador](#gladiador) | Gladiator | Interpretar | Saber Gladiador | Interpretación Impresionante | Fuerza o Carisma; y libre
 [Guardia](#guardia) | Guard | Intimidación | Saber Legal o Saber Guerra | Coacción Rápida | Fuerza o Carisma; y libre
 [Herbalista](#herbalista) | Herbalist | Naturaleza | Saber Herbalismo | Medicina Natural | Constitución o Sabiduría; y libre
 [Ermitaño](#ermitaño) | Hermit | Naturaleza u Ocultismo | Saber (terreno)* | Dudoso Conocimiento | Constitución o Inteligencia; y libre

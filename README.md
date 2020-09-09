@@ -17,7 +17,7 @@ Traducción a español de Pathfinder segunda edición
   - [x] Elf - Elfo
   - [x] Gnome - Gnomo
   - [x] Goblin - Goblin
-  - [ ] Halfling - Mediano
+  - [x] Halfling - Mediano
   - [ ] Human - Humano 
 #### Backgrounds - Trasfondos
 - [x] 35/35 Trasfondos

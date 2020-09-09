@@ -22,7 +22,7 @@ Nombre | Original | Nivel mínimo | Requisito
 **Nivel**: 1  
 **Tags**: Mediano  
 **Requisito**: -  
-**Descripció**: Has aprendido a mantenerte escondido usando a gente más alta como distracción y así evadir llamar la atención. Puedes usar a criaturas que sean por lo menos una categoría de tamaño más grande que tú (usualmente Medio o más) como cobertura para las acciones Esconderte y Escabullirte, pero no para otro tipo de usos de cobertura, como la acción Cubrirse.  
+**Descripción**: Has aprendido a mantenerte escondido usando a gente más alta como distracción y así evadir llamar la atención. Puedes usar a criaturas que sean por lo menos una categoría de tamaño más grande que tú (usualmente Medio o más) como cobertura para las acciones Esconderte y Escabullirte, pero no para otro tipo de usos de cobertura, como la acción Cubrirse.  
 ## Saber Mediano
 **Nombre original**: Halfling Lore  
 **Tipo**: Capacidad  

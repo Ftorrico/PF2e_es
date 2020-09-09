@@ -2,7 +2,7 @@
 ## Tabla resumen
 Nombre | Original | Nivel mínimo | Requisito
 ------------ | ------------- | ------------- | -------------
-[Saber de Enanos](#saber-de-enanos) | Dwarven Lore | 1 | -
+[Saber Enanos](#saber-de-enanos) | Dwarven Lore | 1 | -
 [Familiaridad con Armas Enanas](#familiaridad-con-armas-enanas) | Dwarven Weapon Familiarity | 1 | -
 [Corredor en Rocas](#corredor-en-rocas) | Rock Runner | 1 | -
 [Afinidad con la Piedra](#afinidad-con-la-piedra) | Stonecunning | 1 | -
@@ -14,13 +14,13 @@ Nombre | Original | Nivel mínimo | Requisito
 [Caminante en la Piedra](#caminante-en-la-piedra) | Stonewalker | 9 | -
 [Expertise en Armas Enanas](#expertise-en-armas-enanas) | Dwarven Weapon Expertise | 13 | Familiaridad con Armas Enanas
 
-## Saber de Enanos
+## Saber Enanos
 **Nombre original**: Dwarven Lore  
 **Tipo**: Capacidad  
 **Nivel**: 1  
 **Tags**: Enano  
 **Requisito**: -  
-**Descripción**: Absorbiste con interés las viejas historias y tradiciones de tus ancestros, dioses y gente, estudiando temas y técnicas traspasadas de generación en generación. Obtienes el rango de competencia Entrenado en Artesanía y Religión. Si fueras a volverte Entrenado automáticamente en una de esas habilidades (por tu trasfondo o clase, por ejemplo), te vuelves Entrenado en una habilidad a tu elección. También te vuelves Entrenado en Saber de Enanos.  
+**Descripción**: Absorbiste con interés las viejas historias y tradiciones de tus ancestros, dioses y gente, estudiando temas y técnicas traspasadas de generación en generación. Obtienes el rango de competencia Entrenado en Artesanía y Religión. Si fueras a volverte Entrenado automáticamente en una de esas habilidades (por tu trasfondo o clase, por ejemplo), te vuelves Entrenado en una habilidad a tu elección. También te vuelves Entrenado en Saber Enanos.  
 ## Familiaridad con Armas Enanas
 **Nombre original**: Dwarven Weapon Familiarity  
 **Tipo**: Capacidad  
@@ -35,7 +35,7 @@ También ganas acceso a todas las armas enanas infrecuentes. Para determinar tu 
 **Nivel**: 1  
 **Tags**: Enano  
 **Requisito**: -  
-**Descripción**: Tu conexión innata con la piedra te vuelve capaz de moverte a través de superficies irregulares. Ignoras terreno difícil causado por escombros y terreno desigual que esté hecho de piedra o tierra. Además, cuando usas la habilidad Acrobacias para Balancearte en una superficie angosta o terreno desigual que esté hecho de piedra o tierra, no estás desprevenido, y cuando logras un éxito en una de estas tiradas de Acrobacias, obtienes en cambio un éxito crítico.  
+**Descripción**: Tu conexión innata con la piedra te vuelve capaz de moverte a través de superficies irregulares. Ignoras terreno difícil causado por escombros y terreno desigual que esté hecho de piedra o tierra. Además, cuando usas la habilidad Acrobacia para Balancearte en una superficie angosta o terreno desigual que esté hecho de piedra o tierra, no estás desprevenido, y cuando logras un éxito en una de estas tiradas de Acrobacia, obtienes en cambio un éxito crítico.  
 ## Afinidad con la Piedra
 **Nombre original**: Stonecunning  
 **Tipo**: Capacidad  

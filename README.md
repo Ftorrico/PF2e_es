@@ -3,9 +3,9 @@ Traducción a español de Pathfinder segunda edición
 ## Progreso
 ### Resumen
 - [ ] [Ancestries - Linajes](#ancestries---linajes)
-- [x] Backgrounds - Trasfondos
-- [ ] Classes - Clases
-- [ ] Spells - Hechizos
+- [x] [Backgrounds - Trasfondos](#backgrounds---trasfondos)
+- [ ] [Classes - Clases](#classes---clases)
+- [ ] [Spells - Hechizos](#spells---hechizos)
 #### Ancestries - Linajes
 * Elf - Elfo
 * Gnome - Gnomo

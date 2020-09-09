@@ -3,7 +3,7 @@
 Nombre | Original | Nivel mínimo | Requisito
 ------------ | ------------- | ------------- | -------------
 [Longevidad Ancestral](#longevidad-ancestral) | Ancestral Longevity  | 1 | -
-[Saber de Elfos](#saber-de-elfos) | Elf Lore | 1 | -
+[Saber Elfo](#saber-de-elfos) | Elf Lore | 1 | -
 [Familiaridad con Armas Élficas](#familiaridad-con-armas-élficas) | Elven Weapon Familiarity   | 1 | -
 [Desamparado](#desamparado) | Forlorn | 1 | -
 [Elfo Ágil](#elfo-ágil) | Nimble Elf | 1 | -
@@ -22,13 +22,13 @@ Nombre | Original | Nivel mínimo | Requisito
 **Tags**: Elfo  
 **Requisito**: Tener al menos 100 años de edad.  
 **Descripción**: Has acumulado una vasta variedad de conocimiento a través de los años. Durante tus preparaciones diarias, puedes reflexionar acerca de tus experiencias pasadas para ganar un rango de competencia Entrenado en una habilidad a tu elección. Esta competencia dura hasta que te prepares de nuevo. Ya que esta competencia es temporal, no la puedes usar como requisito para una mejora de habilidad o una opción permanente de personaje como una dote.  
-## Saber de Elfos
+## Saber Elfo
 **Nombre original**: Elf Lore  
 **Tipo**: Capacidad  
 **Nivel**: 1  
 **Tags**: Elfo  
 **Requisito**: -  
-**Descripción**: Has estudiado las artes élficas tradicionales, aprendiendo acerca de la magia arcana y el mundo a tu al rededor. Ganas rango de competencia Entrenado en Arcana y Naturaleza. Si fueras a volverte Entrenado automáticamente en una de estas habilidades (por tu trasfondo o clase, por ejemplo), te vuelves en cambio Entrenado en una habilidad a tu elección. También te vuelves Entrenado en Saber de Elfos.  
+**Descripción**: Has estudiado las artes élficas tradicionales, aprendiendo acerca de la magia arcana y el mundo a tu al rededor. Ganas rango de competencia Entrenado en Arcana y Naturaleza. Si fueras a volverte Entrenado automáticamente en una de estas habilidades (por tu trasfondo o clase, por ejemplo), te vuelves en cambio Entrenado en una habilidad a tu elección. También te vuelves Entrenado en Saber Elfo.  
 ## Familiaridad con Armas Élficas
 **Nombre original**: Elven Weapon Familiarity  
 **Tipo**: Capacidad  

@@ -2,19 +2,20 @@
 Traducción a español de Pathfinder segunda edición
 ## Progreso
 ### Resumen
-- [ ] Ancestries - Linajes
+- [ ] [Ancestries - Linajes](#ancestries---linajes)
 - [x] Backgrounds - Trasfondos
 - [ ] Classes - Clases
+- [ ] Spells - Hechizos
 #### Ancestries - Linajes
 * Elf - Elfo
 * Gnome - Gnomo
 * Goblin - Goblin
 * Halfling - Mediano
 * Human - Humano
-- [x] Descripciones 5/5
+- [x] Descripciones
 - [ ] Dotes de linaje 4/5
 #### Backgrounds - Trasfondos
-- [x] 35/35 Trasfondos
+- [x] Trasfondos
 #### Classes - Clases
 * Alchemist - Alquimista
 * Barbarian - Bárbaro

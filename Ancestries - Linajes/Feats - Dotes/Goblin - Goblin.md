@@ -1,4 +1,4 @@
-# Dotes
+# Dotes de Linaje
 ## Tabla resumen
 Nombre | Original | Nivel mínimo | Requisito
 ------------ | ------------- | ------------- | -------------

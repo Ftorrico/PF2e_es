@@ -5,7 +5,7 @@ Traducción a español de Pathfinder segunda edición
 - [ ] [Ancestries - Linajes](#ancestries---linajes)
 - [x] [Backgrounds - Trasfondos](#backgrounds---trasfondos)
 - [ ] [Classes - Clases](#classes---clases)
-- [ ] [Spells - Hechizos](#spells---hechizos)
+- [ ] [Spells and Rituals - Hechizos y Rituales](#spells-and-rituals---hechizos-y-rituales)
 #### Ancestries - Linajes
 - [x] Descripciones
 - [ ] Dotes de linaje 4/5
@@ -32,7 +32,7 @@ Traducción a español de Pathfinder segunda edición
 * Rogue - Pícaro
 * Sorcerer - Hechicero
 * Wizard - Mago
-#### Spells - Hechizos
+#### Spells and Rituals - Hechizos y Rituales
 - [ ] Nivel 1 ; 0/? ; 0/? ; 0/? ; 0/?
 - [ ] Nivel 2 ; 0/? ; 0/? ; 0/? ; 0/?
 - [ ] Nivel 3 ; 0/? ; 0/? ; 0/? ; 0/?

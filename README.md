@@ -17,6 +17,9 @@ Traducción a español de Pathfinder segunda edición
 #### Backgrounds - Trasfondos
 - [x] Trasfondos
 #### Classes - Clases
+- [ ] Descripción 0/12
+- [ ] Dotes de clase 0/12
+- [ ] Hechizos de foco 0/? ; 0/? ; 0/? ; 0/? ; 0/? ; 0/? ; 0/? ; 0/? ; 0/? ; 0/? ; 0/? ; 0/?
 * Alchemist - Alquimista
 * Barbarian - Bárbaro
 * Bard - Bardo
@@ -29,14 +32,7 @@ Traducción a español de Pathfinder segunda edición
 * Rogue - Pícaro
 * Sorcerer - Hechicero
 * Wizard - Mago
-- [ ] Descripción 0/12
-- [ ] Dotes de clase 0/12
-- [ ] Hechizos de foco 0/? ; 0/? ; 0/? ; 0/? ; 0/? ; 0/? ; 0/? ; 0/? ; 0/? ; 0/? ; 0/? ; 0/?
 #### Spells - Hechizos
-* Arcane - Arcano
-* Divine - Divino
-* Occult - Oculto
-* Primal - Primal
 - [ ] Nivel 1 ; 0/? ; 0/? ; 0/? ; 0/?
 - [ ] Nivel 2 ; 0/? ; 0/? ; 0/? ; 0/?
 - [ ] Nivel 3 ; 0/? ; 0/? ; 0/? ; 0/?
@@ -47,3 +43,7 @@ Traducción a español de Pathfinder segunda edición
 - [ ] Nivel 8 ; 0/? ; 0/? ; 0/? ; 0/?
 - [ ] Nivel 9 ; 0/? ; 0/? ; 0/? ; 0/?
 - [ ] Nivel 10 ; 0/? ; 0/? ; 0/? ; 0/?
+* Arcane - Arcano
+* Divine - Divino
+* Occult - Oculto
+* Primal - Primal

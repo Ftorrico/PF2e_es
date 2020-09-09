@@ -4,7 +4,7 @@ Nombre | Original | Nivel mínimo | Requisito
 ------------ | ------------- | ------------- | -------------
 [¡Quemalo!](#¡quemalo!) | Burn it! | 1 | -
 [Rebuscador de Ciudad](#rebuscador-de-ciudad) | City Scavenger | 1 | -
-[Saber de Goblin](#saber-de-goblin) | Goblin Lore | 1 | -
+[Saber Goblin](#saber-de-goblin) | Goblin Lore | 1 | -
 [Escabullida Goblin](#escabullida-goblin) | Goblin Scuttle | 1 | -
 [Canción Goblin](#canción-goblin) | Goblin Song | 1 | -
 [Familiaridad con Armas Goblin](#goblin-weapon-familiarity) | Goblin Weapon Familiarity | 1 | -
@@ -31,13 +31,13 @@ Nombre | Original | Nivel mínimo | Requisito
 **Requisito**: -  
 **Descripción**: Sabes que los mejores tesoros suelen estar en los desechos, y sueles mofarte de quienes botan chatarra de buena calidad. Ganas un bonificador de circunstancia +1 a las tiradas de Subsistir, y puedes usar Sociedad o Supervivencia para Subsistir en un asentamiento.  
 **Especial**: Si tienes la herencia Goblin Panza-hierro, incrementa estos bonificadores a +2.  
-## Saber de Goblin
+## Saber Goblin
 **Nombre original**: Goblin Lore  
 **Tipo**: Capacidad  
 **Nivel**: 1  
 **Tags**: Goblin  
 **Requisito**: -  
-**Descripción**: Has recogido las habilidades y cuentos de tu comunidad goblin. Ganas el rango de competencia Entrenado en Naturaleza y Sigilo. Si fueras a volverte automáticamente entrenado en una de estas habilidades (por tu trasfondo o clase, por ejemplo), te vuelves en cambio Entrenado en una habilidad a tu elección. También te vuelves Entrenado en Saber de Goblin  
+**Descripción**: Has recogido las habilidades y cuentos de tu comunidad goblin. Ganas el rango de competencia Entrenado en Naturaleza y Sigilo. Si fueras a volverte automáticamente entrenado en una de estas habilidades (por tu trasfondo o clase, por ejemplo), te vuelves en cambio Entrenado en una habilidad a tu elección. También te vuelves Entrenado en Saber Goblin  
 ## Escabullida Goblin
 **Nombre original**: Goblin Scuttle  
 **Tipo**: Reacción; Gatillo: Un aliado termina una acción de movimiento adyacente a ti  

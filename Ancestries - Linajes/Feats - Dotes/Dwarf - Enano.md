@@ -2,7 +2,7 @@
 ## Tabla resumen
 Nombre | Original | Nivel mínimo | Requisito
 ------------ | ------------- | ------------- | -------------
-[Saber Enanos](#saber-de-enanos) | Dwarven Lore | 1 | -
+[Saber Enano](#saber-de-enanos) | Dwarven Lore | 1 | -
 [Familiaridad con Armas Enanas](#familiaridad-con-armas-enanas) | Dwarven Weapon Familiarity | 1 | -
 [Corredor en Rocas](#corredor-en-rocas) | Rock Runner | 1 | -
 [Afinidad con la Piedra](#afinidad-con-la-piedra) | Stonecunning | 1 | -
@@ -14,13 +14,13 @@ Nombre | Original | Nivel mínimo | Requisito
 [Caminante en la Piedra](#caminante-en-la-piedra) | Stonewalker | 9 | -
 [Expertise en Armas Enanas](#expertise-en-armas-enanas) | Dwarven Weapon Expertise | 13 | Familiaridad con Armas Enanas
 
-## Saber Enanos
+## Saber Enano
 **Nombre original**: Dwarven Lore  
 **Tipo**: Capacidad  
 **Nivel**: 1  
 **Tags**: Enano  
 **Requisito**: -  
-**Descripción**: Absorbiste con interés las viejas historias y tradiciones de tus ancestros, dioses y gente, estudiando temas y técnicas traspasadas de generación en generación. Obtienes el rango de competencia Entrenado en Artesanía y Religión. Si fueras a volverte Entrenado automáticamente en una de esas habilidades (por tu trasfondo o clase, por ejemplo), te vuelves Entrenado en una habilidad a tu elección. También te vuelves Entrenado en Saber Enanos.  
+**Descripción**: Absorbiste con interés las viejas historias y tradiciones de tus ancestros, dioses y gente, estudiando temas y técnicas traspasadas de generación en generación. Obtienes el rango de competencia Entrenado en Artesanía y Religión. Si fueras a volverte Entrenado automáticamente en una de esas habilidades (por tu trasfondo o clase, por ejemplo), te vuelves Entrenado en una habilidad a tu elección. También te vuelves Entrenado en Saber Enano.  
 ## Familiaridad con Armas Enanas
 **Nombre original**: Dwarven Weapon Familiarity  
 **Tipo**: Capacidad  

@@ -43,6 +43,7 @@ Traducción a español de Pathfinder segunda edición
 - [ ] Nivel 8 ; 0/? ; 0/? ; 0/? ; 0/?
 - [ ] Nivel 9 ; 0/? ; 0/? ; 0/? ; 0/?
 - [ ] Nivel 10 ; 0/? ; 0/? ; 0/? ; 0/?
+- [ ] Rituals - Rituales
 * Arcane - Arcano
 * Divine - Divino
 * Occult - Oculto

@@ -7,13 +7,13 @@ Traducción a español de Pathfinder segunda edición
 - [ ] [Classes - Clases](#classes---clases)
 - [ ] [Spells - Hechizos](#spells---hechizos)
 #### Ancestries - Linajes
+- [x] Descripciones
+- [ ] Dotes de linaje 4/5
 * Elf - Elfo
 * Gnome - Gnomo
 * Goblin - Goblin
 * Halfling - Mediano
 * Human - Humano
-- [x] Descripciones
-- [ ] Dotes de linaje 4/5
 #### Backgrounds - Trasfondos
 - [x] Trasfondos
 #### Classes - Clases

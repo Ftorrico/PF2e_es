@@ -2,18 +2,18 @@
 Traducción a español de Pathfinder segunda edición
 ## Progreso
 ### Resumen
-- [ ] [Ancestries - Linajes](#ancestries---linajes)
+- [x] [Ancestries - Linajes](#ancestries---linajes)
 - [x] [Backgrounds - Trasfondos](#backgrounds---trasfondos)
 - [ ] [Classes - Clases](#classes---clases)
 - [ ] [Spells and Rituals - Hechizos y Rituales](#spells-and-rituals---hechizos-y-rituales)
 #### Ancestries - Linajes
-- [x] Descripciones
-- [ ] Dotes de linaje 4/5
-* Elf - Elfo
-* Gnome - Gnomo
-* Goblin - Goblin
-* Halfling - Mediano
-* Human - Humano
+- [x] Elf - Elfo
+- [x] Gnome - Gnomo
+- [x] Goblin - Goblin
+- [x] Halfling - Mediano
+- [x] Half Elf - Semi Elfo
+- [x] Half Orc - Semi Orco
+- [x] Human - Humano
 #### Backgrounds - Trasfondos
 - [x] Trasfondos
 #### Classes - Clases

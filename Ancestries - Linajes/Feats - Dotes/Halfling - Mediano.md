@@ -116,4 +116,4 @@ Como es habitual para Ayudar, necesitas prepararte usando una acción en tu turn
 **Nivel**: 13  
 **Tags**: Mediano  
 **Requisito**: Familiaridad con Armas Medianas  
-**Descripción**: Tu afinidad mediana, combinado con tu entrenamiento, te otorga gran habilidad con armas mediana. Cuando obtienes un rasgo de clase que te entrega competencia Experta o superior en ciertas armas, también ganas esa competencia con honda, bastón honda mediano, espada corta y todas las armas enanas en las que estés entrenado.  
+**Descripción**: Tu afinidad mediana, combinado con tu entrenamiento, te otorga gran habilidad con armas mediana. Cuando obtienes un rasgo de clase que te entrega competencia Experta o superior en ciertas armas, también ganas esa competencia con honda, bastón honda mediano, espada corta y todas las armas medianas en las que estés entrenado.  

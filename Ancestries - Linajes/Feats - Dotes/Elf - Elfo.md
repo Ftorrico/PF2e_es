@@ -35,7 +35,7 @@ Nombre | Original | Nivel mínimo | Requisito
 **Nivel**: 1  
 **Tags**: Elfo  
 **Requisito**: -  
-**Descripción**: Prefieres los arcos y otras armas elegantes. Estas Entrenado con arco largo, arco largo compuesto, espadas largas, rapier, arco corto y arco corto compuesto.  
+**Descripción**: Prefieres los arcos y otras armas elegantes. Estas Entrenado con arco largo, arco largo compuesto, espadas largas, espada ropera, arco corto y arco corto compuesto.  
 Además, ganas acceso a todas las armas élficas poco comunes. Para determinar tu competencia con armas, las armas élficas Marciales te son armas Simples y las armas élficas Avanzadas te son Marciales.  
 ## Desamparado
 **Nombre original**: Forlorn  
@@ -108,4 +108,4 @@ Cuando los efectos de Longevidad Ancestral y Longevidad Experta terminan, puedes
 **Nivel**: 13  
 **Tags**: Elfo  
 **Requisito**: -  
-**Descripción**: Tu afinidad élfica se mezcla con tu entrenamiento de clase, otorgándote gran habilidad con armas élficas. Cuando obtienes un rasgo de clase que te entrega competencia Experta o superior en ciertas armas, también ganas esa competencia con arco largo, arco largo compuesto, espada larga, rapier, arco corto, arco corto compuesto y todas las armas élficas en las que estés entrenado.  
+**Descripción**: Tu afinidad élfica se mezcla con tu entrenamiento de clase, otorgándote gran habilidad con armas élficas. Cuando obtienes un rasgo de clase que te entrega competencia Experta o superior en ciertas armas, también ganas esa competencia con arco largo, arco largo compuesto, espada larga, espada ropera, arco corto, arco corto compuesto y todas las armas élficas en las que estés entrenado.  

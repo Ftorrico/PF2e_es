@@ -5,10 +5,10 @@
 Tu camino hacia la grandeza está lleno de fórmulas alquímicas que empujan tu cuerpo y mente ha sus límites.*
 
 **Característica clave**: INTELIGENCIA  
-A nivel 1, tu clase te otorga un bonificador de habilidad a tu Inteligencia.
+A nivel 1, tu clase te otorga un incremento de característica a tu Inteligencia.
 
 **Puntos de Golpe**: 8 más tu modificador de Constitución  
-Cada vez que subas de nivel, incrementas tus puntos de golpe máximo una cantidad igual a este número. 
+Cada vez que subas de nivel, incrementas tus Puntos de Golpe máximos una cantidad igual a este número. 
 
 **Durante los encuentros de combate**  
 Lanzas bombas para acosar o destruir a tus oponentes y suplementas a tu grupo con potentes elixires. A niveles más altos, tus mutágenos transmutan tu cuerpo en una arma poderosa y resistente. 

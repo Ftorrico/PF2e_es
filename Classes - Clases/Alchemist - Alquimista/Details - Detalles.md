@@ -1,5 +1,5 @@
 # Alquimista
-Fuente Core Rulebook pg. 66
+*Fuente Core Rulebook pg. 66*
 ## Descripción General
 *Para ti no hay nada más hermoso que una infusión extraña burbujeando en un cubilete de cristal, y estás dispuesto a probar tus ingeniosos elixires con gran abandono. Te fascina descubrir los secretos de la ciencia y el mundo natural, y estas constantemente experimentando en tu laboratorio, o en la marcha con inventivas mezclas y preparaciones para distintas eventualidades. Eres audaz frente al peligro, lanzando explosivos o creaciones tóxicas a tus oponentes. 
 Tu camino hacia la grandeza está lleno de fórmulas alquímicas que empujan tu cuerpo y mente ha sus límites.*

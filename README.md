@@ -36,7 +36,7 @@ Traducción a español de Pathfinder segunda edición
 #### Spells and Rituals - Hechizos y Rituales
 Listo   | Nivel     | Arcane - Arcano | Divine - Divino |  Occult - Oculto |  Primal - Primal
 :-----: | :-------: | :-------------: | --------------- | ---------------- | ----------------
-<input type="checkbox" id disabled class="task-list-item-checkbox"/> |  0        | 0/18            | 0/15            | 0/16             |  0/15            
+&#9744; |  0        | 0/18            | 0/15            | 0/16             |  0/15            
 &#9744; |  1        | 0/39            | 0/21            | 0/31             |  0/30            
 &#9744; |  2        | 0/36            | 0/29            | 0/39             |  0/37            
 &#9744; |  3        | 0/26            | 0/16            | 0/23             |  0/18            

@@ -6,6 +6,7 @@ Traducción a español de Pathfinder segunda edición
 - [x] [Backgrounds - Trasfondos](#backgrounds---trasfondos)
 - [ ] [Classes - Clases](#classes---clases)
 - [ ] [Spells and Rituals - Hechizos y Rituales](#spells-and-rituals---hechizos-y-rituales)
+- [ ] [Focus Spells - Hechizos de Foco](#focus-spells---hechizos-de-foco)
 #### Ancestries - Linajes
 - [x] Elf - Elfo
 - [x] Gnome - Gnomo
@@ -17,9 +18,9 @@ Traducción a español de Pathfinder segunda edición
 #### Backgrounds - Trasfondos
 - [x] Trasfondos
 #### Classes - Clases
-- [ ] Descripción 0/12
+- [ ] Details - Detalles 1/12
+- [ ] Class Features - Rasgos de clase 0.9/12
 - [ ] Dotes de clase 0/12
-- [ ] Hechizos de foco 0/? ; 0/? ; 0/? ; 0/? ; 0/? ; 0/? ; 0/? ; 0/? ; 0/? ; 0/? ; 0/? ; 0/?
 * Alchemist - Alquimista
 * Barbarian - Bárbaro
 * Bard - Bardo
@@ -33,18 +34,30 @@ Traducción a español de Pathfinder segunda edición
 * Sorcerer - Hechicero
 * Wizard - Mago
 #### Spells and Rituals - Hechizos y Rituales
-- [ ] Nivel 1 ; 0/? ; 0/? ; 0/? ; 0/?
-- [ ] Nivel 2 ; 0/? ; 0/? ; 0/? ; 0/?
-- [ ] Nivel 3 ; 0/? ; 0/? ; 0/? ; 0/?
-- [ ] Nivel 4 ; 0/? ; 0/? ; 0/? ; 0/?
-- [ ] Nivel 5 ; 0/? ; 0/? ; 0/? ; 0/?
-- [ ] Nivel 6 ; 0/? ; 0/? ; 0/? ; 0/?
-- [ ] Nivel 7 ; 0/? ; 0/? ; 0/? ; 0/?
-- [ ] Nivel 8 ; 0/? ; 0/? ; 0/? ; 0/?
-- [ ] Nivel 9 ; 0/? ; 0/? ; 0/? ; 0/?
-- [ ] Nivel 10 ; 0/? ; 0/? ; 0/? ; 0/?
+Listo   | Nivel     | Arcane - Arcano | Divine - Divino |  Occult - Oculto |  Primal - Primal
+:-----: | :-------: | :-------------: | --------------- | ---------------- | ----------------
+<input type="checkbox" id disabled class="task-list-item-checkbox"/> |  0        | 0/18            | 0/15            | 0/16             |  0/15            
+&#9744; |  1        | 0/39            | 0/21            | 0/31             |  0/30            
+&#9744; |  2        | 0/36            | 0/29            | 0/39             |  0/37            
+&#9744; |  3        | 0/26            | 0/16            | 0/23             |  0/18            
+&#9744; |  4        | 0/30            | 0/14            | 0/26             |  0/17            
+&#9744; |  5        | 0/27            | 0/13            | 0/25             |  0/14            
+&#9744; |  6        | 0/19            | 0/12            | 0/15             |  0/11            
+&#9744; |  7        | 0/16            | 0/10            | 0/15             |  0/10            
+&#9744; |  8        | 0/15            | 0/6             | 0/12             |  0/7                   
+&#9744; |  9        | 0/11            | 0/8             | 0/9              |  0/7                         
+&#9744; |  10       | 0/5             | 0/5             | 0/5              |  0/6
+  
 - [ ] Rituals - Rituales
-* Arcane - Arcano
-* Divine - Divino
-* Occult - Oculto
-* Primal - Primal
+#### Focus Spells - Hechizos de Foco
+- [ ] Nivel 0 ; 0/?
+- [ ] Nivel 1 ; 0/?
+- [ ] Nivel 2 ; 0/?
+- [ ] Nivel 3 ; 0/?
+- [ ] Nivel 4 ; 0/?
+- [ ] Nivel 5 ; 0/?
+- [ ] Nivel 6 ; 0/?
+- [ ] Nivel 7 ; 0/?
+- [ ] Nivel 8 ; 0/?
+- [ ] Nivel 9 ; 0/?
+- [ ] Nivel 10 ; 0/?

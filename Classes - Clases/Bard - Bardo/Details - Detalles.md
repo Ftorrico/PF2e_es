@@ -31,7 +31,7 @@ Puedes ganar dinero y prestigio con tus interpretaciones, ganándote un nombre y
 * Te subestiman frente a otros lanzadores de hechizos, creyendo que no eres mucho más que un juglar atrevido, pasando por alto los sutiles poderes de tu magia.
 * Responden favorablemente a tu encanto y habilidad social, pero permanecen suspicaces a tu seductora magia.
 
-**Competencias Iniciales**  
+### Competencias Iniciales
 A nivel 1 obtienes este listado de rangos de competencia en las siguientes estadísticas. Eres no entrenado en el resto, a menos que obtengas rangos adicionales mediante otra manera.  
 
 **Percepción**  

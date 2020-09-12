@@ -1,24 +1,24 @@
 # Rasgos de Clase
 Tu Nivel | Rasgos de clase
 :------: | ---------------
-1        | Trasfondo y linaje. Competencias iniciales, [alquimia](#alquimia)), [libro de fórmulas](#libro-de-fórmulas), [campo de investigación](#campo-de-investigación), dote de alquimista
-2        | Dote de alquimista, [dote de habilidad](#dote-de-habilidad-(nivel-2))
+1        | Trasfondo y linaje. Competencias iniciales, [alquimia](#alquimia), [libro de fórmulas](#libro-de-fórmulas), [campo de investigación](#campo-de-investigación), dote de alquimista
+2        | Dote de alquimista, [dote de habilidad](#dote-de-habilidad-<nivel-2>)
 3        | [Dote general](#dote-general-(nivel-3)), [incremento de habilidad](#incremento-de-habilidad-(nivel-3))
-4        | Dote de alquimista, [dote de habilidad](#dote-de-habilidad-(nivel-2))
+4        | Dote de alquimista, [dote de habilidad](#dote-de-habilidad-<nivel-2>)
 5        | [Incremento de características](#incremento-de-características-(nivel-5)), [dote de linaje](#dote-de-linaje-(nivel-5)), [descubrimiento de campo](#descubrimiento-de-campo-(nivel-5)), [incremento de habilidad](#incremento-de-habilidad-(nivel-3))
-6        | Dote de alquimista, [dote de habilidad](#dote-de-habilidad-(nivel-2))
+6        | Dote de alquimista, [dote de habilidad](#dote-de-habilidad-<nivel-2>)
 9        | [Expertise alquímica](#expertise-alquímica-(nivel-9)), [alerta](#alerta-(nivel-9)), [dote de linaje](#dote-de-linaje-(nivel-5)), [doble elaboración](#doble-elaboración-(nivel-9)), [incremento de habilidad](#incremento-de-habilidad-(nivel-3))
-10       | [Incremento de características](#incremento-de-características-(nivel-5)), dote de alquimista, [dote de habilidad](#dote-de-habilidad-(nivel-2))
+10       | [Incremento de características](#incremento-de-características-(nivel-5)), dote de alquimista, [dote de habilidad](#dote-de-habilidad-<nivel-2>)
 11       | [Dote general](#dote-general-(nivel-3)), [juggernaut](#juggernaut-(nivel-11)), [potencia perpetua](#potencia-perpetua-(nivel-11)), [incremento de habilidad](#incremento-de-habilidad-(nivel-3))
-12       | Dote alquimista, [dote de habilidad](#dote-de-habilidad-(nivel-2))
+12       | Dote alquimista, [dote de habilidad](#dote-de-habilidad-<nivel-2>)
 13       | [Dote de linaje](#dote-de-linaje-(nivel-5)), [descubrimiento de campo mayor](#descubrimiento-de-campo-mayor-(nivel-13)), [expertise con armadura ligera](#expertise-con-armadura-ligera-(nivel-13)), [incremento de habilidad](#incremento-de-habilidad-(nivel-3)), [especialización de arma](#especialización-de-arma-(nivel-13))
-14       | Dote de alquimista, [dote de habilidad](#dote-de-habilidad-(nivel-2))
+14       | Dote de alquimista, [dote de habilidad](#dote-de-habilidad-<nivel-2>)
 15       | [Incremento de características](#incremento-de-características-(nivel-5)), [celeridad alquímica](#celeridad-alquímica-(nivel-15)), [evasión](#evasión-(nivel-15)), [dote general](#dote-general-(nivel-3)), [incremento de habilidad](#incremento-de-habilidad-(nivel-3))
-16       | Dote de alquimista, [dote de habilidad](#dote-de-habilidad-(nivel-2))
+16       | Dote de alquimista, [dote de habilidad](#dote-de-habilidad-<nivel-2>)
 17       | [Maestría alquimica](#maestría-alquimica-(nivel-17)), [dote de linaje](#dote-de-linaje-(nivel-5)), [perfección perpetua](#perfección-perpetua-(nivel-17)), [incremento de habilidad](#incremento-de-habilidad-(nivel-3))
-18       | Dote de alquimista, [dote de habilidad](#dote-de-habilidad-(nivel-2))
+18       | Dote de alquimista, [dote de habilidad](#dote-de-habilidad-<nivel-2>)
 19       | [Dote general](#dote-general-(nivel-3)), [maestría con armadura ligera](#maestría-con-armadura-ligera-(nivel-19)), [incremento de habilidad](#incremento-de-habilidad-(nivel-3))
-20       | [Incremento de características](#incremento-de-características-(nivel-5)), dote de alquimista, [dote de habilidad](#dote-de-habilidad-(nivel-2))
+20       | [Incremento de características](#incremento-de-características-(nivel-5)), dote de alquimista, [dote de habilidad](#dote-de-habilidad-<nivel-2>)
 ## Alquimia 
 Puedes comprender las complejas interacciones de las substancias naturales y sintéticas y puedes preparar ítems alquímicos según tus necesidades.
 Puedes hacer esto usando regentes comunes y la Actividad de Manufactura, o puedes usar regentes especiales infundidos que te permiten crear objetos temporales sin ningún costo.
@@ -53,7 +53,7 @@ Si tu rango de competencia en Medicina es por lo menos entrenado, puedes hacer u
 ### Mutagenista
 Te enfocas en extrañas transformaciones mutagénicas que sacrifican un aspecto físico o psicológico de una criatura para poder fortalecer otro. Comienzas con dos fórmulas de mutágenos de 1er nivel en tu libro de fórmulas.
 Puedes ganar los beneficios de cualquier mutágeno, incluso si no fue específicamente hecho para ti. Cuando tu rango de competencia en armas simples incremente, tu rango de competencia con golpes desarmados incrementa al mismo rango a menos que ya sea mejor.
-## Dote de Habilidad (Nivel 2)
+## Dote de Habilidad <Nivel 2>
 A nivel 2 y cada 2 niveles después, ganas una dote de habilidad. Las dotes de habilidad pueden encontrarse en el Capítulo 5 y tienen el rasgo habilidad. Debes ser Entrenado o superior en la habilidad correspondiente para poder seleccionar una dote de habilidad.
 ## Dote General (Nivel 3)
 A nivel 3 y cada 4 niveles después, obtienes una dote general. Las dotes generales están listadas en el capítulo 5.

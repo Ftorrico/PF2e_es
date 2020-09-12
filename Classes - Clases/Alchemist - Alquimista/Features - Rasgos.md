@@ -1,26 +1,24 @@
 # Rasgos de Clase
 Tu Nivel | Rasgos de clase
 :------: | ---------------
-1        | Trasfondo y linaje. Competencias iniciales, alquimia, libro de formulas, campo de investigación, dote de alquimista
-2        | Dote de alquimista, dote de habilidad
-3        | Dote general, incremento de habilidad
-4        | Dote de alquimista, dote de habilidad
-5        | Incremento de características, dote de linaje, descubrimiento de campo, incremento de habilidad
-6        | Dote de alquimista, dote de habilidad
-7        | Expertise con armas alquímicas, dote general, voluntad de hierro, infusiones perpetuas, incremento de habilidad
-8        | Dote de alquimista, dote de habilidad
-9        | Expertise alquímica, alerta, dote de linaje, doble elaboración, incremento de habilidad
-10       | Incremento de características, dote de alquimista, dote de habilidad
-11       | Dote general, juggernaut, potencia perpetua, incremento de habilidad
-12       | Dote alquimista, dote de habilidad
-13       | Dote de linaje, descubrimiento de campo mayor, expertise con armadura ligera, incremento de habilidad, especialización de arma
-14       | Dote de alquimista, dote de habilidad
-15       | Incremento de características, celeridad alquímica, evasión, dote general, incremento de habilidad
-16       | Dote de alquimista, dote de habilidad
-17       | Maestría alquimica, dote de linaje, perfección perpetua, incremento de habilidad
-18       | Dote de alquimista, dote de habilidad
-19       | Dote general, maestría con armadura ligera, incremento de habilidad
-20       | Incremento de características, dote de alquimista, dote de habilidad
+1        | Trasfondo y linaje. Competencias iniciales, [alquimia](#alquimia), [libro de formulas](#libro-de-formulas), [campo de investigación](#campo-de-investigación), dote de alquimista
+2        | Dote de alquimista, [dote de habilidad](#dote-de-habilidad)
+3        | [Dote general](#dote-general), [incremento de habilidad](#incremento-de-habilidad)
+4        | Dote de alquimista, [dote de habilidad](#dote-de-habilidad)
+5        | [Incremento de características](#incremento-de-características), [dote de linaje](#dote-de-linaje), [descubrimiento de campo](#descubrimiento-de-campo), [incremento de habilidad](#incremento-de-habilidad)
+6        | Dote de alquimista, [dote de habilidad](#dote-de-habilidad)
+9        | [Expertise alquímica](#expertise-alquímica), [alerta](#alerta), [dote de linaje](#dote-de-linaje), [doble elaboración](#doble-elaboración), [incremento de habilidad](#incremento-de-habilidad)
+10       | [Incremento de características](#incremento-de-características), dote de alquimista, [dote de habilidad](#dote-de-habilidad)
+11       | [Dote general](#dote-general), [juggernaut](#juggernaut), [potencia perpetua](#potencia-perpetua), [incremento de habilidad](#incremento-de-habilidad)
+12       | Dote alquimista, [dote de habilidad](#dote-de-habilidad)
+13       | [Dote de linaje](#dote-de-linaje), [descubrimiento de campo mayor](#descubrimiento-de-campo-mayor), [expertise con armadura ligera](#expertise-con-armadura-ligera), [incremento de habilidad](#incremento-de-habilidad), [especialización de arma](#especialización-de-arma)
+14       | Dote de alquimista, [dote de habilidad](#dote-de-habilidad)
+15       | [Incremento de características](#incremento-de-características), [celeridad alquímica](#celeridad-alquímica), [evasión](#evasión), [dote general](#dote-general), [incremento de habilidad](#incremento-de-habilidad)
+16       | Dote de alquimista, [dote de habilidad](#dote-de-habilidad)
+17       | [Maestría alquimica](#maestría-alquimica), [dote de linaje](#dote-de-linaje), [perfección perpetua](#perfección-perpetua), [incremento de habilidad](#incremento-de-habilidad)
+18       | Dote de alquimista, [dote de habilidad](#dote-de-habilidad)
+19       | [Dote general](#dote-general), [maestría con armadura ligera](#maestría-con-armadura-ligera), [incremento de habilidad](#incremento-de-habilidad)
+20       | [Incremento de características](#incremento-de-características), dote de alquimista, [dote de habilidad](#dote-de-habilidad)
 ## Alquimia 
 Puedes comprender las complejas interacciones de las substancias naturales y sintéticas y puedes preparar ítems alquímicos según tus necesidades.
 Puedes hacer esto usando regentes comunes y la Actividad de Manufactura, o puedes usar regentes especiales infundidos que te permiten crear objetos temporales sin ningún costo.
@@ -28,43 +26,33 @@ Con experiencia, puedes crear cada vez más objetos alquímicos sin costo, y cad
 
 Obtienes la dote *Manufactura Alquímica*, incluso si no cumples con los requisitos, y obtienes las 4 fórmulas alquímicas comunes de nivel 1 que otorga ese dote. El catálogo de objetos alquímicos está en *Core Rulebook Pg. 543*  
 Puedes utilizar esta dote para confeccionar objetos alquímicos siempre y cuando tengas la fórmula en tu libro de fórmulas.
-
 ## Reactivos Infundidos
 Infundes tus reactivos con tu propia esencia alquímica, permitiéndote crear objetos alquímicos sin costo alguno. Cada día durante tus preparaciones diarias, ganas un número de lotes de reactivos infundidos igual a tu nivel + tu modificador de Inteligencia. Puedes usar estos reactivos tanto para Alquimia Avanzada o Alquimia Rápida. Todos tus reactivos juntos pesan en total un bulto ligero.
 Tan pronto como hagas tus siguientes preparaciones diarias, tus reactivos infundidos del día anterior son instantáneamente destruidos,  y cualquier efecto que no sea permanente de tus objetos infundidos inmediatamente termina. Si bien los reactivos infundidos son objetos físicos, estos no pueden ser duplicados, preservados o creados de cualquier forma que no sea tu preparación diaria. Todos estas copias, o reactivos artificiales, carecen de infusión y son inútiles para hacer alquimia avanzada o alquimia rápida.
-
 ## Alquimia Avanzada
 Durante tus preparaciones diarias, después de producir nuevos reactivos infundidos, puedes gastar lotes de dichos reactivos para crear objetos alquímicos infundidos. No necesitas hacer una tirada de Manufactura para lograrlo, e ignoras tanto el número de días que típicamente se requiere como los reactivos alquímicos necesarios para crear estos objetos. Tu nivel de alquimia avanzada es igual a tu nivel. Por cada lote de reactivos alquímicos que gastes, escoge un objeto alquímico de tu nivel de alquimia avanzada o menor que esté en tu libro de fórmulas, y crea dos de ese objeto. Estos objetos tienen la característica Infundido y permanecen potentes por 24 horas o hasta tu siguiente preparación diaria, lo que pase primero.
-
 ## Alquimia Rápida
 Si necesitas un objeto alquímico en específico sobre la marcha, puedes usar tus reactivos infundidos para crearlo rápidamente con la acción de Alquimia Rápida
-
->**Nombre Original**: Quick Alchemy
->**Rasgos**: Alquimista, Manipular
->**Tipo**: 1 Acción (simple)
->**Costo**: 1 lote de reactivos infundidos.
->**Requerimientos**: Tienes herramientas de alquimista (página 287), la fórmula del objeto alquímico que estás creando y una mano libre
->**Descripción**: Velozmente mezclas un objeto alquímico de corta vida para usar en lo pronto. Creas un solo objeto alquímico de tu nivel de alquimia avanzada o menor que se encuentre en tu libro de fórmulas sin tener que gastar los costes materiales normales en reactivos alquímicos o teniendo que hacer una tirada de Manufactura. Este objeto tiene la característica Infundido, pero permanece potente solo hasta el inicio de tu próximo turno
-
+>**Nombre Original**: Quick Alchemy  
+>**Rasgos**: Alquimista, Manipular  
+>**Tipo**: 1 Acción (simple)  
+>**Costo**: 1 lote de reactivos infundidos.  
+>**Requerimientos**: Tienes herramientas de alquimista (página 287), la fórmula del objeto alquímico que estás creando y una mano libre  
+>**Descripción**: Velozmente mezclas un objeto alquímico de corta vida para usar en lo pronto. Creas un solo objeto alquímico de tu nivel de alquimia avanzada o menor que se encuentre en tu libro de fórmulas sin tener que gastar los costes materiales normales en reactivos alquímicos o teniendo que hacer una tirada de Manufactura. Este objeto tiene la característica Infundido, pero permanece potente solo hasta el inicio de tu próximo turno  
 ## Libro de Fórmulas
 Un Alquimista mantiene registros meticulosos de las fórmulas de cada objeto que puede crear. Comienzas con un libro de fórmulas estándar de 10 pp de valor o menos (como se detalla en la página 290) gratis. El libro de formulas contiene dos formulas de objetos alquímicos comunes de nivel 1 que tu elijas, además de los que ganes por Manufactura Alquímica y tu Campo de Investigación. El catálogo de objetos alquímicos comienza en la página 543.
 Cada vez que ganes un nivel, puede agregar las fórmulas de dos objetos alquímicos comunes a tu libro de fórmulas. Estas nuevas fórmulas pueden ser de cualquier nivel que puedas crear. Aprendes estas fórmulas de forma automática, pero te sigue siendo posible encontrar o comprar fórmulas adicionales en asentamientos o de otros alquimistas, o inventar alguna con la dote de Inventor (página 262)
-
 ## Campo de Investigación
 Tus investigaciones en la naturaleza alquímica del universo te han llevado a enfocarte en un campo particular de investigación. Puede que tengas algún grado en un instituto científico, que te contactes por correspondencia con otros investigadores de tu área o que trabajes como un genio solitario. Escoge un campo de investigación.
-
 ### Bombardero
 Te especializas en explosiones y en otro tipo de reacciones alquímicas violentas. Comienzas con dos bombas alquímicas de nivel 1 en tu libro de formulas.
 Cuando lanzas una bomba alquímica con la característica salpicar, puedes causar daño por salpicadura solo a tu objetivo primario en vez del área de salpicadura normal.
-
 ### Cirujano
 Te concentras en curar a otros con tu alquimia. Comienzas con de dos de las siguientes formulas en tu libro de fórmulas: antídoto inferior, antiplaga inferior o elixir de vida inferior,
 Si tu rango de competencia en Medicina es por lo menos entrenado, puedes hacer una tirada de Manufactura en vez de Medicina para cualquier acción de Medicina entrenada o no entrenada.
-
 ### Mutagenista
 Te enfocas en extrañas transformaciones mutagénicas que sacrifican un aspecto físico o psicológico de una criatura para poder fortalecer otro. Comienzas con dos fórmulas de mutágenos de 1er nivel en tu libro de fórmulas.
 Puedes ganar los beneficios de cualquier mutágeno, incluso si no fue específicamente hecho para ti. Cuando tu rango de competencia en armas simples incremente, tu rango de competencia con golpes desarmados incrementa al mismo rango a menos que ya sea mejor.
-
 ## Dotes de Habilidad (Nivel 2)
 A nivel 2 y cada 2 niveles después, ganas una dote de habilidad. Las dotes de habilidad pueden encontrarse en el Capítulo 5 y tienen el rasgo habilidad. Debes ser Entrenado o superior en la habilidad correspondiente para poder seleccionar una dote de habilidad.
 ## Dotes Generales (Nivel 3)
@@ -91,7 +79,11 @@ Has entrenado para usar de forma más efectiva las armas que encuentras en tu la
 ## Voluntad de Hierro (Nivel 7)
 Tus defensas mentales son una fortaleza de hierro. Tu rango de competencia para las tiradas de Voluntad incrementa a Experto.
 ## Infusiones Perpetuas (Nivel 7)
-*Pendiente*
+Has aprendido como crear infusiones alquímicas perpetuas que pueden proveer una provisión casi infinita de cierto objeto simple. Ganas la capacidad de crear dos objetos alquímicos de nivel 1 usando Alquimia Rápida sin tener que usar un lote de regentes infundidos. Los objetos que puedes seleccionar dependen de tu campo de investigación y deben estar en tu libro de formulas.  
+
+**Bombardero**: Escoge dos de las siguientes formulas: frasco de ácido menor, fuego alquimista menor, relámpago embotellado menor, hielo liquido menor, bolsa de maraña menor, piedra de trueno menor.  
+**Cirujano**: Antídoto menor y antiplaga menor.  
+**Mutagenista**: Escoge dos de las siguientes formulas: mutágeno bestial menor, mutágeno cabezatoro menor, mutágeno cognitivo menor, mutágeno juggernaut menor, mutágeno mercurial menor, mutágeno lengua de plata menor.  
 ## Expertise Alquímica (Nivel 9)
 La constante práctica ha hecho que mejores tu efectividad con tus brebajes. Tu rango de competencia de tu CD de clase alquimista incrementa a Experto.
 ## Alerta (Nivel 9)
@@ -101,9 +93,17 @@ Te sabes tus formulas tan bien que puedes elaborar dos objetos a la vez. Cuando 
 ## Juggernaut (Nivel 11)
 Tu cuerpo se ha acostumbrado a los peligros físicos y se ha vuelto resistente a los patógenos y enfermedades. Tu rango de competencia de las salvaciones de Fortaleza incrementa a Maestro. Cuando logras un éxito en una tirada de salvación de Fortaleza, obtienes en cambio un éxito crítico.
 ## Potencia Perpetua (Nivel 11)
-*Pendiente*
+Tus infusiones perpetuas mejoran, permitiéndote usar Alquimia Rápida para crear objetos más poderosos sin costo. Los objetos que puedes seleccionar dependen de tu campo de investigación y deben estar en tu libro de formulas.  
+
+**Bombardero**: La versión moderada de las bombas que escogiste con infusiones perpetuas.  
+**Cirujano**: Antídoto moderado y antiplaga moderado.  
+**Mutagenista**: La versión moderada de los mutágenos que escogiste con infusiones perpetuas.  
 ## Descubrimiento de Campo Mayor (Nivel 13)
-*Pendiente*
+Logras hacer un descubrimiento increíble que avanza tu entendimiento de tu campo.  
+
+**Bombardero**: Puedes incrementar el salpicado de tus bombas para dañar a criaturas hasta 10 pies (3 metros), o 15 pies (4,5 metros) si tienes Salpicadura Extendida.  
+**Cirujano**: Cuando usas Alquimia Rápida para crear cualquier tipo de elixir de vida, la criatura que lo bebe gana el máximo de Puntos de golpes posibles para ese elixir, en vez de tirar para determinar el numero de Puntos de Golpe recuperados.  
+**Mutagenista**: Si bebes de otro mutágeno mientras estás bajo los efectos de un mutágeno que creaste, puedes ganas los beneficios y detrimentos de ambos al mismo tiempo, a pesar de que ambos tienen el rasgo *polimorfar* y por ende no funcionarían normalmente juntos. Si fueras a estar bajo los efectos de nuevos mutágenos mientras te beneficias de dos mutágenos, pierdes los beneficios de cualquiera de los dos, y te quedas con los beneficios y detrimentos de los dos restantes. Si estas bajo los efectos de dos mutagenos y fueras a estar bajo un efecto no mutágeno de polimorfar, pierdes los beneficios de los mutágenos y conservas los detrimentos.  
 ## Expertise con Armadura Ligera (Nivel 13)
 Has aprendido como esquivar con armadura ligera o con ninguna. Tus rangos de competencia de defensa para armadura ligera y Sin Armadura incrementan a Experto.
 ## Especialización de Arma (Nivel 13)
@@ -115,6 +115,10 @@ Has aprendido a evitar rápidamente explosiones, alientos de dragón o peor. Tu 
 ## Maestría Alquímica (Nivel 17)
 Tus brebajes alquímicos son increíblemente efectivos. Tu rango de competencia de tu CD de clase alquimista incrementa a Maestro.
 ## Perfección Perpetua (Nivel 17)
-*Pendiente*
+Tus infusiones perpetuas mejoran, permitiéndote usar Alquimia Rápida para crear objetos más poderosos sin costo. Los objetos que puedes seleccionar dependen de tu campo de investigación y deben estar en tu libro de formulas.  
+
+**Bombardero**: La versión mayor de las bombas que escogiste con infusiones perpetuas.  
+**Cirujano**: Antídoto mayor y antiplaga moderado.  
+**Mutagenista**: La versión mayor de los mutágenos que escogiste con infusiones perpetuas.  
 ## Maestría con Armadura Ligera (Nivel 19)
 Tu uso de armadura ligera mejora, incrementando tu habilidad para esquivar golpes. Tus rangos de competencia de defensa para armadura ligera y Sin Armadura incrementan a Maestro.

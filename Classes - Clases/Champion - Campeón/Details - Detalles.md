@@ -31,7 +31,7 @@ Usas la mayor parte de tu tiempo rezando solemnemente y en contemplación, entre
 * Se preocupan que secretamente los desprecies por no vivir con tus estándares imposibles, o que no estés dispuesto a comprometerte cuando sea necesario.  
 * Saben que has hecho juramentos divinos de servicio y confían en que los honrarás.  
 
-**Competencias Iniciales**  
+### Competencias Iniciales
 A nivel 1 obtienes este listado de rangos de competencia en las siguientes estadísticas. Eres no entrenado en el resto, a menos que obtengas rangos adicionales mediante otra manera.    
 
 **Percepción**  

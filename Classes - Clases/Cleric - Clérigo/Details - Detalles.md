@@ -31,7 +31,7 @@ Puede que realices servicios a un templo, viajes para esparcir la palabra de tu 
 * Esperan que sanes sus heridas.  
 * Confían en ti para interactuar con otras figuras religiosas.  
 
-**Competencias Iniciales**  
+### Competencias Iniciales
 A nivel 1 obtienes este listado de rangos de competencia en las siguientes estadísticas. Eres no entrenado en el resto, a menos que obtengas rangos adicionales mediante otra manera.  
 
 **Percepción**  

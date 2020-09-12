@@ -32,7 +32,7 @@ Experimentas en tu laboratorio alquímico, fermentando elixires, creando bombas 
 * No comprenden tu fanatismo por la alquimia, creatividad o invención. 
 * Asumen que si no has causado alguna catástrofe con tus experimentos, inevitablemente algún día lo harás. 
 
-**Competencias Iniciales**  
+### Competencias Iniciales
 A nivel 1 obtienes este listado de rangos de competencia en las siguientes estadísticas. Eres inexperto en el resto, a menos que obtengas rangos adicionales mediante otra manera.  
 
 **Percepción**  

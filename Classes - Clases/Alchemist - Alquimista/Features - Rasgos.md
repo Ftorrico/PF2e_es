@@ -11,7 +11,7 @@ Tu Nivel | Rasgos de clase
 10       | [Incremento de características](#incremento-de-características-nivel-5), dote de alquimista, [dote de habilidad](#dote-de-habilidad-nivel-2)
 11       | [Dote general](#dote-general-nivel-3), [juggernaut](#juggernaut-nivel-11), [potencia perpetua](#potencia-perpetua-nivel-11), [incremento de habilidad](#incremento-de-habilidad-nivel-3)
 12       | Dote alquimista, [dote de habilidad](#dote-de-habilidad-nivel-2)
-13       | [Dote de linaje](#dote-de-linaje-nivel-5), [descubrimiento de campo mayor](#descubrimiento-de-campo-mayor-nivel-13), [expertise con armadura ligera](#expertise-con-armadura-ligera-nivel-13), [incremento de habilidad](#incremento-de-habilidad-nivel-3), [especialización de arma](#especialización-de-arma-nivel-13)
+13       | [Dote de linaje](#dote-de-linaje-nivel-5), [descubrimiento de campo mayor](#descubrimiento-de-campo-mayor-nivel-13), [expertise con armadura ligera](#expertise-con-armadura-ligera-nivel-13), [incremento de habilidad](#incremento-de-habilidad-nivel-3), [especialización de armas](#especialización-de-armas-nivel-13)
 14       | Dote de alquimista, [dote de habilidad](#dote-de-habilidad-nivel-2)
 15       | [Incremento de características](#incremento-de-características-nivel-5), [celeridad alquímica](#celeridad-alquímica-nivel-15), [evasión](#evasión-nivel-15), [dote general](#dote-general-nivel-3), [incremento de habilidad](#incremento-de-habilidad-nivel-3)
 16       | Dote de alquimista, [dote de habilidad](#dote-de-habilidad-<nivel-2>)
@@ -106,7 +106,7 @@ Logras hacer un descubrimiento increíble que avanza tu entendimiento de tu camp
 **Mutagenista**: Si bebes de otro mutágeno mientras estás bajo los efectos de un mutágeno que creaste, puedes ganas los beneficios y detrimentos de ambos al mismo tiempo, a pesar de que ambos tienen el rasgo *polimorfar* y por ende no funcionarían normalmente juntos. Si fueras a estar bajo los efectos de nuevos mutágenos mientras te beneficias de dos mutágenos, pierdes los beneficios de cualquiera de los dos, y te quedas con los beneficios y detrimentos de los dos restantes. Si estas bajo los efectos de dos mutagenos y fueras a estar bajo un efecto no mutágeno de polimorfar, pierdes los beneficios de los mutágenos y conservas los detrimentos.  
 ## Expertise con Armadura Ligera (Nivel 13)
 Has aprendido como esquivar con armadura ligera o con ninguna. Tus rangos de competencia de defensa para armadura ligera y Sin Armadura incrementan a Experto.
-## Especialización de Arma (Nivel 13)
+## Especialización de Armas (Nivel 13)
 Has aprendido a inflinjir heridas más graves con las armas que conoces mejor. Causas 2 de daño adicional con armas y ataques desarmados en los que seas Experto. Este daño incrementa a 3 si eres Maestro y 4 si eres Legendario.
 ## Celeridad Alquímica (Nivel 15)
 Tu destreza elaborando objetos es tal que puedes crear tres a la vez. Cuando usas la acción Alquimia Rápida, puedes usar hasta tres lotes de regentes para crear hasta tres objetos alquimicos como los que se describen en la acción. Estos objetos no necesariamente deben ser iguales.

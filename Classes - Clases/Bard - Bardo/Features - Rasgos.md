@@ -2,7 +2,7 @@
 
 Tu Nivel | Rasgos de clase
 :------: | ---------------
-1        | Trasfondo y linaje. Competencias iniciales, [conjuración oculta](#conjuración-oculta), [repertorio de hechizos](#repertorio-de-hechizos), [hechizos de composición](#hechizos-de-composición), [hechizos de composición](#hechizos de composición)
+1        | Trasfondo y linaje. Competencias iniciales, [conjuración oculta](#conjuración-oculta), [repertorio de hechizos](#repertorio-de-hechizos), [hechizos de composición](#hechizos-de-composición), [hechizos de composición](#hechizos-de-composición)
 2        | [Dote de bardo](#dote-de-bardo-nivel-2), [dote de habilidad](#dote-de-habilidad-nivel-2)
 3        | [Hechizos de nivel 2](#tabla-3-6-hechizos-de-bardo-por-día), [dote general](#dote-general-nivel-3), [reflejos rápidos](#reflejos-rápidos-nivel-3), [hechizos insignia](#hechizos-insignia-nivel-3), [incremento de habilidad](#incremento-de-habilidad-nivel-3)
 4        | [Dote de bardo](#dote-de-bardo-nivel-2), [dote de habilidad](#dote-de-habilidad-nivel-2)

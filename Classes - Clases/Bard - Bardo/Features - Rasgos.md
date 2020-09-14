@@ -91,7 +91,7 @@ A nivel 3 y cada 2 niveles después, ganas un incremento de habilidad. Puedes us
 A nivel 7, puedes usar este incremento de habilidad para para llegar a rango de competencia Maestro con una habilidad que seas Experto, y a nivel 15, puedes usarlo para para llegar a rango de competencia a Legendario en una que ya seas Maestro.
 ## Incremento de Características (Nivel 5)
 A nivel 5 y cada 5 niveles después, mejoras 4 puntuaciones de característica distintas. Puedes usar estos incrementos de características para llevar tus puntuaciones de características más allá de 18. Incrementar una puntuación de característica la hace aumentar en 1 si ya estaba en 18 o más, y en 2 si estaba en menos de 18.
-## Dotes de Linaje (Nivel 5)
+## Dote de Linaje (Nivel 5)
 Sumado a la dote de linaje con la que comienzas, ganas una dote de linaje a nivel 5 y cada 4 niveles después. La lista de dotes de linaje disponibles para ti se encuentran en la entrada de tu linaje en el Capítulo 2.
 ## Lanzador de Hechizos Experto (Nivel 7)
 Tu rango de competencia para tus tiradas de ataque y la CD de tus hechizos incrementa a Experto.

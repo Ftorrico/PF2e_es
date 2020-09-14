@@ -2,26 +2,26 @@
 
 Tu Nivel | Rasgos de clase
 :------: | ---------------
-1        | Trasfondo y linaje. Competencias iniciales, conjuración Oculta, repertorio de hechizos, hechizos de composición, musa
-2        | Dote de bardo, dote de habilidad
-3        | Hechizos de nivel 2, dote general, reflejos rápidos, hechizos insignia, incremento de habilidad
-4        | Dote de bardo, dote de habilidad
-5        | Hechizos de nivel 3, incremento de características, dote de linaje, incremento de habilidad
-6        | Dote de bardo, dote de habilidad
-7        | Hechizos de nivel 4, lanzador de hechizos experto, dote general, incremento de habilidad
-8        | Dote de bardo, dote de habilidad
-9        | Hechizos de nivel 5, dote de linaje, gran fortaleza, resolución, incremento de habilidad
-10       | Incremento de características, dote de bardo, dote de habilidad
-11       | Hechizos de nivel 6, expertise con armas de bardo, dote general, incremento de habilidad, sentidos vigilantes
-12       | Dote de bardo, dote de habilidad
-13       | Hechizos de nivel 7, dote de linaje, expertise con armadura ligera, incremento de habilidad, especialización de arma
-14       | Dote de bardo, dote de habilidad
-15       | Hechizos de nivel 8, incremento de características, dote general, lanzador de hechizos maestro, incremento de habilidad
-16       | Dote de bardo, dote de habilidad
-17       | Hechizos de nivel 9, dote de linaje, resolución mayor, incremento de habilidad
-18       | Dote de bardo, dote de habilidad
-19       | Dote general, lanzador de hechizos legendario, magnum opus, incremento de habilidad
-20       | Incremento de características, dote de bardo, dote de habilidad
+1        | Trasfondo y linaje. Competencias iniciales, [conjuración oculta](#conjuración-oculta), [repertorio de hechizos](#repertorio-de-hechizos), [hechizos de composición](#hechizos-de-composición), [hechizos de composición](#hechizos de composición)
+2        | [Dote de bardo](#dote-de-bardo-nivel-2), [dote de habilidad](#dote-de-habilidad-nivel-2)
+3        | [Hechizos de nivel 2](#tabla-3-6-hechizos-de-bardo-por-día), [dote general](#dote-general-nivel-3), [reflejos rápidos](#reflejos-rápidos-nivel-3), [hechizos insignia](#hechizos-insignia-nivel-3), [incremento de habilidad](#incremento-de-habilidad-nivel-3)
+4        | [Dote de bardo](#dote-de-bardo-nivel-2), [dote de habilidad](#dote-de-habilidad-nivel-2)
+5        | [Hechizos de nivel 3](#tabla-3-6-hechizos-de-bardo-por-día), [incremento de características](#incremento-de-características-nivel-5), [dote de linaje](#dote-de-linaje-nivel-5), [incremento de habilidad](#incremento-de-habilidad-nivel-3)
+6        | [Dote de bardo](#dote-de-bardo-nivel-2), [dote de habilidad](#dote-de-habilidad-nivel-2)
+7        | [Hechizos de nivel 4](#tabla-3-6-hechizos-de-bardo-por-día), [lanzador de hechizos experto](#lanzador-de-hechizos-experto-nivel-7), [dote general](#dote-general-nivel-3), [incremento de habilidad](#incremento-de-habilidad-nivel-3)
+8        | [Dote de bardo](#dote-de-bardo-nivel-2), [dote de habilidad](#dote-de-habilidad-nivel-2)
+9        | [Hechizos de nivel 5](#tabla-3-6-hechizos-de-bardo-por-día), [dote de linaje](#dote-de-linaje-nivel-5), [gran fortaleza](#gran-fortaleza-nivel-9), [resolución](#resolución-nivel-9), [incremento de habilidad](#incremento-de-habilidad-nivel-3)
+10       | [Incremento de características](#incremento-de-características-nivel-5), [dote de bardo](#dote-de-bardo-nivel-2), [dote de habilidad](#dote-de-habilidad-nivel-2)
+11       | [Hechizos de nivel 6](#tabla-3-6-hechizos-de-bardo-por-día), [expertise con armas de bardo](#expertise-con-armas-de-bardo-nivel-11), [dote general](#dote-general-nivel-3), [incremento de habilidad](#incremento-de-habilidad-nivel-3), [sentidos vigilantes](#sentidos-vigilantes-nivel-11)
+12       | [Dote de bardo](#dote-de-bardo-nivel-2), [dote de habilidad](#dote-de-habilidad-nivel-2)
+13       | [Hechizos de nivel 7](#tabla-3-6-hechizos-de-bardo-por-día), [dote de linaje](#dote-de-linaje-nivel-5), [expertise con armadura ligera](#expertise-con-armadura-ligera-nivel-13), [incremento de habilidad](#incremento-de-habilidad-nivel-3), [especialización de armas](#especialización-de-arma-nivel-13)
+14       | [Dote de bardo](#dote-de-bardo-nivel-2), [dote de habilidad](#dote-de-habilidad-nivel-2)
+15       | [Hechizos de nivel 8](#tabla-3-6-hechizos-de-bardo-por-día), [incremento de características](#incremento-de-características-nivel-5), [dote general](#dote-general-nivel-3), [lanzador de hechizos maestro](#lanzador-de-hechizos-maestro-nivel-15), [incremento de habilidad](#incremento-de-habilidad-nivel-3)
+16       | [Dote de bardo](#dote-de-bardo-nivel-2), [dote de habilidad](#dote-de-habilidad-nivel-2)
+17       | [Hechizos de nivel 9](#tabla-3-6-hechizos-de-bardo-por-día), [dote de linaje](#dote-de-linaje-nivel-5), [resolución mayor](#resolución-mayor-nivel-17), [incremento de habilidad](#incremento-de-habilidad-nivel-3)
+18       | [Dote de bardo](#dote-de-bardo-nivel-2), [dote de habilidad](#dote-de-habilidad-nivel-2)
+19       | [Dote general](#dote-general-nivel-3), [lanzador de hechizos legendario](#lanzador-de-hechizos-legendario-nivel-19), [magnum opus](#magnum-opus-nivel-19), [incremento de habilidad](#incremento-de-habilidad-nivel-3)
+20       | [Incremento de características](#incremento-de-características-nivel-5), [dote de bardo](#dote-de-bardo-nivel-2), [dote de habilidad](#dote-de-habilidad-nivel-2)
 ## Conjuración Oculta
 Extraes tu magia desde el conocimiento esotérico. Puedes lanzar hechizos ocultos usando la actividad Lanzar un Hechizo, y puedes proveer componentes materiales, somáticos y verbales cuando conjures hechizos (ver Lanzando Hechizos en la página 302). Como eres un bardo, usualmente puedes tocar un instrumento para hechizos que requieran componentes somáticos o materiales, siempre y cuando te tome al menos una mano hacerlo. Además, normalmente puedes tocar un instrumento para hechizos que requieren componentes verbales, en vez de hablar.  
 
@@ -50,11 +50,36 @@ Tu musa es un misterio, llevándote a descubrir los secretos escondidos del mult
 Tu musa es un virtuoso, inspirandote a alcanzar mayores alturas. Si es una criatura, puede que sea una criatura amante de las interpretaciones como un angel coral o una azata lillend; si es una deidad, podría ser Shelyn. Como bardo con musa maestro, eres una inspiración para tus aliados y eres confiado de tus habilidades musicales y de oratoria. Ganas la dote Composición Persistente y agregas el hechizo aliviar a tu repertorio de hechizos.
 ### Polimatía
 Tu musa es un hombre orquesta, revoloteando entre habilidades y objetivos. Si es una criatura, puede que sea una criatura ecléctica como una fata; si es una deidad, puede que sea Desna o Calistria. Como bardo con musa polimatía, estás interesado en una amplia gama de temas pero raramente te dedicas totalmente solo a uno- quieres intentarlo todo. Ganas la dote Interpretación Versátil y agregas el hechizo sirviente invisible a tu repertorio de hechizos.
-## Dotes de Bardo (Nivel 2)
+### Tabla 3-6 Hechizos de bardo por día
+Tu Nivel | Trucos | Nivel 1 | Nivel 2 | Nivel 3 | Nivel 4 | Nivel 5 | Nivel 6 | Nivel 7 | Nivel 8 | Nivel 9 | Nivel 10 
+:------: | ------ | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | -------- 
+1        | 5      | 2       | -       | -       | -       | -       | -       | -       | -       | -       | -
+2        | 5      | 3       | -       | -       | -       | -       | -       | -       | -       | -       | -
+3        | 5      | 3       | 2       | -       | -       | -       | -       | -       | -       | -       | -
+4        | 5      | 3       | 3       | -       | -       | -       | -       | -       | -       | -       | -
+5        | 5      | 3       | 3       | 2       | -       | -       | -       | -       | -       | -       | -
+6        | 5      | 3       | 3       | 3       | -       | -       | -       | -       | -       | -       | -
+7        | 5      | 3       | 3       | 3       | 2       | -       | -       | -       | -       | -       | -
+8        | 5      | 3       | 3       | 3       | 3       | -       | -       | -       | -       | -       | -
+9        | 5      | 3       | 3       | 3       | 3       | 2       | -       | -       | -       | -       | -
+10       | 5      | 3       | 3       | 3       | 3       | 3       | -       | -       | -       | -       | -
+11       | 5      | 3       | 3       | 3       | 3       | 3       | 2       | -       | -       | -       | -
+12       | 5      | 3       | 3       | 3       | 3       | 3       | 3       | -       | -       | -       | -
+13       | 5      | 3       | 3       | 3       | 3       | 3       | 3       | 2       | -       | -       | -
+14       | 5      | 3       | 3       | 3       | 3       | 3       | 3       | 3       | -       | -       | -
+15       | 5      | 3       | 3       | 3       | 3       | 3       | 3       | 3       | 2       | -       | -
+16       | 5      | 3       | 3       | 3       | 3       | 3       | 3       | 3       | 3       | -       | -
+17       | 5      | 3       | 3       | 3       | 3       | 3       | 3       | 3       | 3       | 2       | -
+18       | 5      | 3       | 3       | 3       | 3       | 3       | 3       | 3       | 3       | 3       | -
+19       | 5      | 3       | 3       | 3       | 3       | 3       | 3       | 3       | 3       | 3       | 1<sup>*</sup>
+20       | 5      | 3       | 3       | 3       | 3       | 3       | 3       | 3       | 3       | 3       | 1<sup>*</sup>  
+
+<sup>*</sup>El rasgo de clase magnum opus te otorga una ranura de hechizo de nivel 10 que funciona diferente a las demás ranuras de hechizo.
+## Dote de Bardo (Nivel 2)
 A nivel 2 y cada 2 niveles después, ganas una dote de clase de bardo (página 99)
-## Dotes de Habilidad (Nivel 2)
+## Dote de Habilidad (Nivel 2)
 A nivel 2 y cada 2 niveles después, ganas una dote de habilidad. Las dotes de habilidad pueden encontrarse en el Capítulo 5 y tienen el rasgo habilidad. Debes ser Entrenado o superior en la habilidad correspondiente para poder seleccionar una dote de habilidad.
-## Dotes Generales (Nivel 3)
+## Dote General (Nivel 3)
 A nivel 3 y cada 4 niveles después, obtienes una dote general. Las dotes generales están listadas en el capítulo 5.
 ## Reflejos Rápidos (Nivel 3)
 Tus reflejos son increíblemente rápidos. Tu rango de competencia de tus salvaciones de Reflejos incrementa a Experto.
@@ -80,7 +105,7 @@ Te has vuelto verdaderamente experto usando armas bárdicas. Ganas competencia E
 A través de tus aventuras, has desarrollado una gran intuición y atención al detalle. Tu rango de competencia de Percepción incrementa a Maestro.
 ## Expertise con Armadura Ligera (Nivel 13)
 Has aprendido como esquivar con armadura ligera o con ninguna. Tus rangos de competencia de defensa para armadura ligera y Sin Armadura incrementan a Experto.
-## Especialización de Arma (Nivel 13)
+## Especialización de Armas (Nivel 13)
 Has aprendido a infligir heridas más graves con las armas que conoces mejor. Causas 2 de daño adicional con armas y ataques desarmados en los que seas Experto. Este daño incrementa a 3 si eres Maestro y 4 si eres Legendario.
 ## Lanzador de Hechizos Maestro (Nivel 15)
 Has amaestrado lo oculto. Tu rango de competencia para tus tiradas de ataque y la CD de tus hechizos incrementa a Maestro.

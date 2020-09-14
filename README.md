@@ -19,7 +19,7 @@ Traducción a español de Pathfinder segunda edición
 - [x] Trasfondos
 #### Classes - Clases
 - [x] Details - Detalles
-- [ ] Class Features - Rasgos de clase 1/12
+- [ ] Class Features - Rasgos de clase 2/12
 - [ ] Dotes de clase 0/12
 * Alchemist - Alquimista
 * Barbarian - Bárbaro

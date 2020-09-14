@@ -10,7 +10,7 @@ Tu Nivel | Rasgos de clase
 9        | [Expertise alquímica](#expertise-alquímica-nivel-9), [alerta](#alerta-nivel-9), [dote de linaje](#dote-de-linaje-nivel-5), [doble elaboración](#doble-elaboración-nivel-9), [incremento de habilidad](#incremento-de-habilidad-nivel-3)
 10       | [Incremento de características](#incremento-de-características-nivel-5), [dote de alquimista](#dote-de-alquimista), [dote de habilidad](#dote-de-habilidad-nivel-2)
 11       | [Dote general](#dote-general-nivel-3), [juggernaut](#juggernaut-nivel-11), [potencia perpetua](#potencia-perpetua-nivel-11), [incremento de habilidad](#incremento-de-habilidad-nivel-3)
-12       | Dote alquimista, [dote de habilidad](#dote-de-habilidad-nivel-2)
+12       | [Dote de alquimista](#dote-de-alquimista), [dote de habilidad](#dote-de-habilidad-nivel-2)
 13       | [Dote de linaje](#dote-de-linaje-nivel-5), [descubrimiento de campo mayor](#descubrimiento-de-campo-mayor-nivel-13), [expertise con armadura ligera](#expertise-con-armadura-ligera-nivel-13), [incremento de habilidad](#incremento-de-habilidad-nivel-3), [especialización de armas](#especialización-de-armas-nivel-13)
 14       | [Dote de alquimista](#dote-de-alquimista), [dote de habilidad](#dote-de-habilidad-nivel-2)
 15       | [Incremento de características](#incremento-de-características-nivel-5), [celeridad alquímica](#celeridad-alquímica-nivel-15), [evasión](#evasión-nivel-15), [dote general](#dote-general-nivel-3), [incremento de habilidad](#incremento-de-habilidad-nivel-3)

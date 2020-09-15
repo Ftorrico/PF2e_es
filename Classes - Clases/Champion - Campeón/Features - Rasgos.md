@@ -1,26 +1,26 @@
 # Rasgos de Clase
 Tu Nivel | Rasgos de clase
 :------: | ---------------
-1        | Trasfondo y linaje. Competencias iniciales, código del campeón, deidad, causa, arma deifica, reacción de campeón, hechizos de devoción, dote de campeón, bloqueo con escudo.
-2        | Dote de campeón, dote de habilidad
-3        | Aliado divino, dote general, incremento de habilidad
-4        | Dote de campeón, dote de habilidad
-5        | Incremento de características, dote de linaje, incremento de habilidad, expertise con armas
-6        | Dote de campeón, dote de habilidad
-7        | Expertise con armaduras, dote general, incremento de habilidad, especialización de armas
-8        | Dote de campeón, dote de habilidad
-9        | Dote de linaje, expertise de campeón, castigo divino, juggernaut, reflejos rápidos, incremento de habilidad
-10       | Incremento de características, dote de campeón, dote de habilidad
-11       | Alerta, voluntad divina, exaltar, dote general, incremento de habilidad
-12       | Dote de campeón, dote de habilidad
-13       | Dote de linaje, maestría con armadura, incremento de habilidad, maestría con armas.
-14       | Dote de campeón, dote de habilidad
-15       | Incremento de características, dote general, especialización de armas mayor, incremento de habilidad
-16       | Dote de campeón, dote de habilidad
-17       | Dote de linaje, maestría de campeón, armadura legendaria, incremento de habilidad
-18       | Dote de campeón, dote de habilidad
-19       | Dote general, desafío del héroe, incremento de habilidad
-20       | Incremento de características, dote de campeón, dote de habilidad
+1        | Trasfondo y linaje. Competencias iniciales, [código del campeón](#código-del-campeón), [deidad](#deidad), [causa](#causa), [arma deifica](#arma-deifica), [reacción de campeón](#reacción-de-campeón), [hechizos de devoción](#hechizos-de-devoción), [dote de campeón](#dote-de-campeón), [bloqueo con escudo](#bloqueo-con-escudo).
+2        | [Dote de campeón](#dote-de-campeón), [dote de habilidad](#dote-de-habilidad-nivel-2)
+3        | [Aliado divino](#aliado-divino-nivel-3), [dote general](#dote-general-nivel-3), [incremento de habilidad](#incremento-de-habilidad-nivel-3)
+4        | [Dote de campeón](#dote-de-campeón), [dote de habilidad](#dote-de-habilidad-nivel-2)
+5        | [Incremento de características](#incremento-de-características-nivel-5), [dote de linaje](#dote-de-linaje-nivel-5), [incremento de habilidad](#incremento-de-habilidad-nivel-3), [expertise con armas](#expertise-con-armas-nivel-5)
+6        | [Dote de campeón](#dote-de-campeón), [dote de habilidad](#dote-de-habilidad-nivel-2)
+7        | [Expertise con armaduras](#expertise-con-armaduras-nivel-7), [dote general](#dote-general-nivel-3), [incremento de habilidad](#incremento-de-habilidad-nivel-3), [especialización de armas](#especialización-de-armas-nivel-7)
+8        | [Dote de campeón](#dote-de-campeón), [dote de habilidad](#dote-de-habilidad-nivel-2)
+9        | [Dote de linaje](#dote-de-linaje-nivel-5), [expertise de campeón](#expertise-de-campeón-nivel-9), [castigo divino](#castigo-divino-nivel-9), [juggernaut](#juggernaut-nivel-9), [reflejos rápidos](#reflejos-rápidos-nivel-9), [incremento de habilidad](#incremento-de-habilidad-nivel-3)
+10       | [Incremento de características](#incremento-de-características-nivel-5), [dote de campeón](#dote-de-campeón), [dote de habilidad](#dote-de-habilidad-nivel-2)
+11       | [Alerta](#alerta-nivel-11), [voluntad divina](#voluntad-divina-nivel-11), [exaltar](#exaltar-nivel-11), [dote general](#dote-general-nivel-3), [incremento de habilidad](#incremento-de-habilidad-nivel-3)
+12       | [Dote de campeón](#dote-de-campeón), [dote de habilidad](#dote-de-habilidad-nivel-2)
+13       | [Dote de linaje](#dote-de-linaje-nivel-5), [maestría con armaduras](#maestría-con-armaduras-nivel-13), [incremento de habilidad](#incremento-de-habilidad-nivel-3), [maestría con armas](#maestría-con-armas-nivel-13).
+14       | [Dote de campeón](#dote-de-campeón), [dote de habilidad](#dote-de-habilidad-nivel-2)
+15       | [Incremento de características](#incremento-de-características-nivel-5), [dote general](#dote-general-nivel-3), [especialización de armas mayor](#especialización-de-armas-mayor-nivel-15), [incremento de habilidad](#incremento-de-habilidad-nivel-3)
+16       | [Dote de campeón](#dote-de-campeón), [dote de habilidad](#dote-de-habilidad-nivel-2)
+17       | [Dote de linaje](#dote-de-linaje-nivel-5), [maestría de campeón](#maestría-de-campeón-nivel-17), [armadura legendaria](#armadura-legendaria-nivel-17), [incremento de habilidad](#incremento-de-habilidad-nivel-3)
+18       | [Dote de campeón](#dote-de-campeón), [dote de habilidad](#dote-de-habilidad-nivel-2)
+19       | [Dote general](#dote-general-nivel-3), [desafío del héroe](#desafío-del-héroe-nivel-19), [incremento de habilidad](#incremento-de-habilidad-nivel-3)
+20       | [Incremento de características](#incremento-de-características-nivel-5), [dote de campeón](#dote-de-campeón), [dote de habilidad](#dote-de-habilidad-nivel-2)
 ## Código del Campeón
 Sigues un código de conducta, empezando por principios compartidos por todos los campeones de un alineamiento (como el bueno) y continuando con principios de tu causa. Las deidades a menudo agregan reglas adicionales (por ejemplo, los campeones de Torag no pueden mostrar piedad a los enemigos de su gente, haciendo casi imposible que tomen la causa del redentor). Solo las reglas de campeones buenos aparecen en este libro. Los principios son listados en orden de importancia, empezando por los más importantes. Si una situación coloca dos principios en conflicto, no estás en un camino sin salida; en cambio, debes seguir el principio más importante. Por ejemplo, como un paladín, si un rey malvado te pregunta si estás escondiendo refugiados para que él pueda ejecutarlos, podrías mentirle, ya que el principio de mentir es menos importante que el de prevenir daño a los inocentes. Intentar subvertir tu código creando situaciones que te fuercen a hacer que un principio mayor anule a uno menor (por ejemplo, prometer no respetar las autoridades y después, para cumplir tu palabra, las irrespetes) es una violación del código del campeón. 
 

@@ -109,7 +109,7 @@ Logras hacer un descubrimiento increíble que avanza tu entendimiento de tu camp
 ## Expertise con Armadura Ligera (Nivel 13)
 Has aprendido como esquivar con armadura ligera o con ninguna. Tus rangos de competencia de defensa para armadura ligera y Sin Armadura incrementan a Experto.
 ## Especialización de Armas (Nivel 13)
-Has aprendido a inflinjir heridas más graves con las armas que conoces mejor. Causas 2 de daño adicional con armas y ataques desarmados en los que seas Experto. Este daño incrementa a 3 si eres Maestro y 4 si eres Legendario.
+Has aprendido a infligir heridas más graves con las armas que conoces mejor. Causas 2 de daño adicional con armas y ataques desarmados en los que seas Experto. Este daño incrementa a 3 si eres Maestro y 4 si eres Legendario.
 ## Celeridad Alquímica (Nivel 15)
 Tu destreza elaborando objetos es tal que puedes crear tres a la vez. Cuando usas la acción Alquimia Rápida, puedes usar hasta tres lotes de regentes para crear hasta tres objetos alquimicos como los que se describen en la acción. Estos objetos no necesariamente deben ser iguales.
 ## Evasión (Nivel 15)

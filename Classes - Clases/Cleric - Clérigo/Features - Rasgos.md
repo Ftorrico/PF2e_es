@@ -82,29 +82,29 @@ Estás entrenado en la doctrina más militante de tu iglesia, enfocandote tanto 
 ### Tabla 3-9 Hechizos de Clérigo por día
 Tu Nivel | Trucos | Nivel 1       | Nivel 2       | Nivel 3       | Nivel 4       | Nivel 5       | Nivel 6       | Nivel 7       | Nivel 8       | Nivel 9       | Nivel 10 
 :------: | ------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- 
-1        | 5      | 2<sup>*</sup> | -             | -             | -             | -             | -             | -             | -             | -             | -
-2        | 5      | 3<sup>*</sup> | -             | -             | -             | -             | -             | -             | -             | -             | -
-3        | 5      | 3             | 2<sup>*</sup> | -             | -             | -             | -             | -             | -             | -             | -
-4        | 5      | 3             | 3<sup>*</sup> | -             | -             | -             | -             | -             | -             | -             | -
-5        | 5      | 3             | 3             | 2<sup>*</sup> | -             | -             | -             | -             | -             | -             | -
-6        | 5      | 3             | 3             | 3<sup>*</sup> | -             | -             | -             | -             | -             | -             | -
-7        | 5      | 3             | 3             | 3             | 2<sup>*</sup> | -             | -             | -             | -             | -             | -
-8        | 5      | 3             | 3             | 3             | 3<sup>*</sup> | -             | -             | -             | -             | -             | -
-9        | 5      | 3             | 3             | 3             | 3             | 2<sup>*</sup> | -             | -             | -             | -             | -
-10       | 5      | 3             | 3             | 3             | 3             | 3<sup>*</sup> | -             | -             | -             | -             | -
-11       | 5      | 3             | 3             | 3             | 3             | 3             | 2<sup>*</sup> | -             | -             | -             | -
-12       | 5      | 3             | 3             | 3             | 3             | 3             | 3<sup>*</sup> | -             | -             | -             | -
-13       | 5      | 3             | 3             | 3             | 3             | 3             | 3             | 2<sup>*</sup> | -             | -             | -
-14       | 5      | 3             | 3             | 3             | 3             | 3             | 3             | 3<sup>*</sup> | -             | -             | -
-15       | 5      | 3             | 3             | 3             | 3             | 3             | 3             | 3             | 2<sup>*</sup> | -             | -
-16       | 5      | 3             | 3             | 3             | 3             | 3             | 3             | 3             | 3<sup>*</sup> | -             | -
-17       | 5      | 3             | 3             | 3             | 3             | 3             | 3             | 3             | 3             | 2<sup>*</sup> | -
-18       | 5      | 3             | 3             | 3             | 3             | 3             | 3             | 3             | 3             | 3<sup>*</sup> | -
-19       | 5      | 3             | 3             | 3             | 3             | 3             | 3             | 3             | 3             | 3             | 1<sup>*</sup>  <sup>*</sup> 
-20       | 5      | 3             | 3             | 3             | 3             | 3             | 3             | 3             | 3             | 3             | 1<sup>*</sup>  <sup>*</sup> 
+1        | 5      | 2<sup>1</sup> | -             | -             | -             | -             | -             | -             | -             | -             | -
+2        | 5      | 3<sup>1</sup> | -             | -             | -             | -             | -             | -             | -             | -             | -
+3        | 5      | 3             | 2<sup>1</sup> | -             | -             | -             | -             | -             | -             | -             | -
+4        | 5      | 3             | 3<sup>1</sup> | -             | -             | -             | -             | -             | -             | -             | -
+5        | 5      | 3             | 3             | 2<sup>1</sup> | -             | -             | -             | -             | -             | -             | -
+6        | 5      | 3             | 3             | 3<sup>1</sup> | -             | -             | -             | -             | -             | -             | -
+7        | 5      | 3             | 3             | 3             | 2<sup>1</sup> | -             | -             | -             | -             | -             | -
+8        | 5      | 3             | 3             | 3             | 3<sup>1</sup> | -             | -             | -             | -             | -             | -
+9        | 5      | 3             | 3             | 3             | 3             | 2<sup>1</sup> | -             | -             | -             | -             | -
+10       | 5      | 3             | 3             | 3             | 3             | 3<sup>1</sup> | -             | -             | -             | -             | -
+11       | 5      | 3             | 3             | 3             | 3             | 3             | 2<sup>1</sup> | -             | -             | -             | -
+12       | 5      | 3             | 3             | 3             | 3             | 3             | 3<sup>1</sup> | -             | -             | -             | -
+13       | 5      | 3             | 3             | 3             | 3             | 3             | 3             | 2<sup>1</sup> | -             | -             | -
+14       | 5      | 3             | 3             | 3             | 3             | 3             | 3             | 3<sup>1</sup> | -             | -             | -
+15       | 5      | 3             | 3             | 3             | 3             | 3             | 3             | 3             | 2<sup>1</sup> | -             | -
+16       | 5      | 3             | 3             | 3             | 3             | 3             | 3             | 3             | 3<sup>1</sup> | -             | -
+17       | 5      | 3             | 3             | 3             | 3             | 3             | 3             | 3             | 3             | 2<sup>1</sup> | -
+18       | 5      | 3             | 3             | 3             | 3             | 3             | 3             | 3             | 3             | 3<sup>1</sup> | -
+19       | 5      | 3             | 3             | 3             | 3             | 3             | 3             | 3             | 3             | 3             | 1<sup>2</sup>
+20       | 5      | 3             | 3             | 3             | 3             | 3             | 3             | 3             | 3             | 3             | 1<sup>2</sup>
 
-<sup>*</sup> Tu fuente divina te otorga hechizos adicionales de Sanar o Dañar para este nivel. El número es igual a 1 + modificador de Carisma.
-<sup>*</sup>  <sup>*</sup> El rasgo de clase hechizo milagroso te otorga una ranura de hechizo de nivel 10 que funciona diferente a las demás ranuras de hechizo.
+<sup>1</sup>Tu fuente divina te otorga hechizos adicionales de Sanar o Dañar para este nivel. El número es igual a 1 + modificador de Carisma.  
+<sup>2</sup>El rasgo de clase hechizo milagroso te otorga una ranura de hechizo de nivel 10 que funciona diferente a las demás ranuras de hechizo.
 ## Dote de Clérigo (Nivel 2)
 A nivel 2 y cada 2 niveles después, ganas una dote de clase de clérigo (página 121)
 ## Dote de Habilidad (Nivel 2)

@@ -5,7 +5,7 @@ Tu Nivel | Rasgos de clase
 2        | [Dote de clérigo](#dote-de-clérigo-nivel-2), [dote de habilidad](#dote-de-habilidad-nivel-2)
 3        | [Hechizos de nivel 2](#tabla-3-9-hechizos-de-clérigo-por-día), [dote-general](#dote-general-nivel-3), [segunda doctrina](#doctrina), [incremento de habilidad](#incremento-de-habilidad-nivel-5)
 4        | [Dote de clérigo](#dote-de-clérigo-nivel-2), [dote de habilidad](#dote-de-habilidad-nivel-2)
-5        | [Hechizos de nivel 3](#tabla-3-9-hechizos de-clérigo-por-día), [incremento de características](#incremento-de-características-nivel-5), [alerta](#alerta-nivel-5), [dote de linaje](#dote-de-linaje-nivel-5), [incremento de habilidad](#incremento-de-habilidad-nivel-5)
+5        | [Hechizos de nivel 3](#tabla-3-9-hechizos-de-clérigo-por-día), [incremento de características](#incremento-de-características-nivel-5), [alerta](#alerta-nivel-5), [dote de linaje](#dote-de-linaje-nivel-5), [incremento de habilidad](#incremento-de-habilidad-nivel-5)
 6        | [Dote de clérigo](#dote-de-clérigo-nivel-2), [dote de habilidad](#dote-de-habilidad-nivel-2)
 7        | [Hechizos de nivel 4](#tabla-3-9-hechizos-de-clérigo-por-día), [dote-general](#dote-general-nivel-3), [incremento de habilidad](#incremento-de-habilidad-nivel-5), [tercera doctrina](#doctrina)
 8        | [Dote de clérigo](#dote-de-clérigo-nivel-2), [dote de habilidad](#dote-de-habilidad-nivel-2)

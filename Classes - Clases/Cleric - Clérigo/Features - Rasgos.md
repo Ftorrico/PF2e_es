@@ -63,22 +63,22 @@ Incluso entre seguidores de la misma deidad, se encuentran numerosas doctrinas y
 ### Clérigo de Claustro
 Eres un persona de religión, enfocandote en la magia divina y en tu conexión con los dominios de tu deidad.
 
-**Primera Doctrina (1)**: Ganas la dote de clérigo Iniciado en un Dominio (página 121)
-**Segunda Doctrina (3)**: Tu rango de competencia para las salvaciones de Fortaleza incrementa a Experto.
-**Tercera Doctrina (7)**: Tu rango de competencia para las tiradas de ataque y CD de tus hechizos divinos incrementa a Experto.
-**Cuarta Doctrina (11)**: Obtienes competencia Experta con el arma favorecida de tu deidad. Cuando logras un éxito crítico en una tirada de ataque usando esa arma, aplicas el efecto de especialización crítico del arma; usa tu CD de hechizo divino si es necesario.
-**Quinta Doctrina (15)**: Tu rango de competencia con tus tiradas de ataque y CD de tus hechizos divinos incrementa a Maestro.
-**Doctrina Final(19)**: Tu rango de competencia con tus tiradas de ataque y CD de tus hechizos divinos incrementa a Legendario.
+**Primera Doctrina (1)**: Ganas la dote de clérigo Iniciado en un Dominio (página 121)  
+**Segunda Doctrina (3)**: Tu rango de competencia para las salvaciones de Fortaleza incrementa a Experto.  
+**Tercera Doctrina (7)**: Tu rango de competencia para las tiradas de ataque y CD de tus hechizos divinos incrementa a Experto.  
+**Cuarta Doctrina (11)**: Obtienes competencia Experta con el arma favorecida de tu deidad. Cuando logras un éxito crítico en una tirada de ataque usando esa arma, aplicas el efecto de especialización crítico del arma; usa tu CD de hechizo divino si es necesario.  
+**Quinta Doctrina (15)**: Tu rango de competencia con tus tiradas de ataque y CD de tus hechizos divinos incrementa a Maestro.  
+**Doctrina Final(19)**: Tu rango de competencia con tus tiradas de ataque y CD de tus hechizos divinos incrementa a Legendario.  
 
 ### Sacerdote de Batalla
 Estás entrenado en la doctrina más militante de tu iglesia, enfocandote tanto en hechizos como en la batalla.
 
-**Primera Doctrina (1)**: Estás entrenado en armadura ligera y armadura media, y tienes competencia experta en tiradas de Fortaleza. Ganas la dote genera de Bloqueo con Escudo (página 266), una reacción que reduce el daño recibido usando un escudo. Si el arma de tu deidad es simple, ganas la dote de clérigo Sencillez Mortal (página 121). A nivel 13, si obtienes el rasgo de clase defensa divina, también ganas competencia experta en armadura ligera y media.
-**Segunda Doctrina (3)**: Estas Entrenado en armas marciales.
-**Tercera Doctrina (7)**: Obtienes competencia Experta con el arma favorecida de tu deidad. Cuando logras un éxito crítico en una tirada de ataque usando esa arma, aplicas el efecto de especialización crítico del arma; usa tu CD de hechizo divino si es necesario.
-**Cuarta Doctrina (11)**: Tu rango de competencia con tus tiradas de ataque y CD de tus hechizos divinos incrementa a Experto.
-**Quinta Doctrina (15)**: Tu rango de competencia de tus salvaciones de Fortaleza incrementa a Maestro. Cuando logras un éxito en una salvación de Fortaleza, obtienes en cambio un éxito crítico.
-**Doctrina Final(19)**: Tu rango de competencia con tus tiradas de ataque y CD de tus hechizos divinos incrementa a Maestro.
+**Primera Doctrina (1)**: Estás entrenado en armadura ligera y armadura media, y tienes competencia experta en tiradas de Fortaleza. Ganas la dote genera de Bloqueo con Escudo (página 266), una reacción que reduce el daño recibido usando un escudo. Si el arma de tu deidad es simple, ganas la dote de clérigo Sencillez Mortal (página 121). A nivel 13, si obtienes el rasgo de clase defensa divina, también ganas competencia experta en armadura ligera y media.  
+**Segunda Doctrina (3)**: Estas Entrenado en armas marciales.  
+**Tercera Doctrina (7)**: Obtienes competencia Experta con el arma favorecida de tu deidad. Cuando logras un éxito crítico en una tirada de ataque usando esa arma, aplicas el efecto de especialización crítico del arma; usa tu CD de hechizo divino si es necesario.  
+**Cuarta Doctrina (11)**: Tu rango de competencia con tus tiradas de ataque y CD de tus hechizos divinos incrementa a Experto.  
+**Quinta Doctrina (15)**: Tu rango de competencia de tus salvaciones de Fortaleza incrementa a Maestro. Cuando logras un éxito en una salvación de Fortaleza, obtienes en cambio un éxito crítico.  
+**Doctrina Final(19)**: Tu rango de competencia con tus tiradas de ataque y CD de tus hechizos divinos incrementa a Maestro.  
 ### Tabla 3-9 Hechizos de Clérigo por día
 Tu Nivel | Trucos | Nivel 1       | Nivel 2       | Nivel 3       | Nivel 4       | Nivel 5       | Nivel 6       | Nivel 7       | Nivel 8       | Nivel 9       | Nivel 10 
 :------: | ------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- 

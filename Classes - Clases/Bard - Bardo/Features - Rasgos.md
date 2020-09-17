@@ -50,7 +50,7 @@ Tu musa es un misterio, llevándote a descubrir los secretos escondidos del mult
 Tu musa es un virtuoso, inspirandote a alcanzar mayores alturas. Si es una criatura, puede que sea una criatura amante de las interpretaciones como un angel coral o una azata lillend; si es una deidad, podría ser Shelyn. Como bardo con musa maestro, eres una inspiración para tus aliados y eres confiado de tus habilidades musicales y de oratoria. Ganas la dote Composición Persistente y agregas el hechizo aliviar a tu repertorio de hechizos.
 ### Polimatía
 Tu musa es un hombre orquesta, revoloteando entre habilidades y objetivos. Si es una criatura, puede que sea una criatura ecléctica como una fata; si es una deidad, puede que sea Desna o Calistria. Como bardo con musa polimatía, estás interesado en una amplia gama de temas pero raramente te dedicas totalmente solo a uno- quieres intentarlo todo. Ganas la dote Interpretación Versátil y agregas el hechizo sirviente invisible a tu repertorio de hechizos.
-### Tabla 3-6 Hechizos de bardo por día
+### Tabla 3-6 Hechizos de Bardo por día
 Tu Nivel | Trucos | Nivel 1 | Nivel 2 | Nivel 3 | Nivel 4 | Nivel 5 | Nivel 6 | Nivel 7 | Nivel 8 | Nivel 9 | Nivel 10 
 :------: | ------ | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | -------- 
 1        | 5      | 2       | -       | -       | -       | -       | -       | -       | -       | -       | -

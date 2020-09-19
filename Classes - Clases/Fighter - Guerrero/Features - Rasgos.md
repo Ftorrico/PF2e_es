@@ -26,7 +26,7 @@ Tu Nivel | Rasgos de clase
 >**Tipo**: Reacción; **Gatillante**: una criatura a tu alcance usa una acción de manipulación o de movimiento, hace un ataque a rango o deja un espacio durante una acción de movimiento que esté realizando.  
 >**Rasgos**: Guerrero  
 >**Descripción**: Te abalanzas contra un oponente que ha hecho dejado una apertura. Haz un ataque cuerpo a cuerpo contra la criatura gatillante. Si tu ataque es un golpe crítico y el gatillante fue una acción de manipulación, interrumpes esa acción. Este ataque no cuenta para tu penalización de ataques múltiples. y tu penalizador de ataques múltiples no se aplica para este ataque.  
-## Dote de Guerrero (Nivel 2)
+## Dote de Guerrero
 A nivel 1 y cada nivel par después, ganas una dote de clase de guerrero (página 144)
 ## Bloqueo con Escudo
 Obtienes la dote general Bloqueo con Escudo (página 266), una reacción que te permite reducir daño usando tu escudo.

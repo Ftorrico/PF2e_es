@@ -1,7 +1,7 @@
 # Rasgos de Clase
 Tu Nivel | Rasgos de clase
 :------: | ---------------
-1        | Trasfondo y linaje. Competencias iniciales, [ataque de oportunidad](#ataque-de-oportunidad), [dote de guerrero](#dote-de-guerrero),[ bloqueo con escudo](# bloqueo-con-escudo)
+1        | Trasfondo y linaje. Competencias iniciales, [ataque de oportunidad](#ataque-de-oportunidad), [dote de guerrero](#dote-de-guerrero),[ bloqueo con escudo](#bloqueo-con-escudo)
 2        | [Dote de guerrero](#dote-de-guerrero), [dote de habilidad](#dote-de-habilidad-nivel-2)
 3        | [Valentía](#Valentía-nivel-3), [dote general](#dote-general-nivel-3), [incremento de habilidad](#incremento-de-habilidad-nivel-3)
 4        | [Dote de guerrero](#dote-de-guerrero), [dote de habilidad](#dote-de-habilidad-nivel-2)

@@ -40,7 +40,7 @@ Como curadores del orden natural, los druidas encuentran las afrontas a la natur
 * Enseñar el lenguaje Druídico a no druidas
 * Cada orden druídica agrega actos de anatema adicionales, detallados en la entrada de la orden.
 ## Lenguaje Druídico
-Conoces el Druídico, un lenguaje secreto conocido solo por druidas, además de cualquier otro lenguaje que conozcas por tu ascendencia. El Druídico tiene su propio alfabeto. Enseñar el idioma Druídico a no druidas es anatema.
+Conoces el Druídico, un lenguaje secreto conocido solo por druidas, además de cualquier otro lenguaje que conozcas por tu linaje. El Druídico tiene su propio alfabeto. Enseñar el idioma Druídico a no druidas es anatema.
 ## Orden Druídica
 Al convertirte en druida, optaste por una orden druídica, la cual te otorga una dote de clase, un hechizo de orden (ver abajo), y una habilidad entrenada adicional vinculada a tu orden. Si bien siempre serás un miembro de tu orden inicial, se ha escuchado de druidas que solicitan estudiar entre otras órdenes en búsqueda de un mayor entendimiento del mundo natural, y los PJ druidas puede que estén entre los que más probablemente puedan mezclar los poderes de diferentes órdenes.  
 
@@ -83,6 +83,8 @@ Tu Nivel | Trucos | Nivel 1       | Nivel 2       | Nivel 3       | Nivel 4     
 20       | 4      | 3             | 3             | 3             | 3             | 3             | 3             | 3             | 3             | 3             | 1<sup>1</sup>
 
 <sup>1</sup>El rasgo de clase hierofante primal te otorga una ranura de hechizo de nivel 10 que funciona diferente a las demás ranuras de hechizo.
+## Bloqueo con Escudo
+Obtienes la dote general Bloqueo con Escudo (página 266), una reacción que te permite reducir daño usando tu escudo.
 ## Dote de Druida (Nivel 2)
 A nivel 2 y cada 2 niveles después, ganas una dote de clase de clérigo (página 121)
 ## Dote de Habilidad (Nivel 2)

@@ -13,7 +13,7 @@ Tu Nivel | Rasgos de clase
 10       | [Incremento de habilidad](#incremento-de-características-nivel-5), [Dote de druida](#dote-de-druida-nivel-2), [dote de habilidad](#dote-de-habilidad-nivel-2)
 11       | [Hechizos de nivel 6](#tabla-3-11-hechizos-de-druida-por-día), [expertise con armas de druida](#expertise-con-armas-de-druida-nivel-11), [dote general](#dote-general-nivel-3), [resolución](#resolución-nivel-11), [incremento de habilidad](#incremento-de-habilidad-nivel-3)
 12       | [Dote de druida](#dote-de-druida-nivel-2), [dote de habilidad](#dote-de-habilidad-nivel-2)
-13       | [Hechizos de nivel 7](#tabla-3-11-hechizos-de-druida-por-día), [dote de linaje](#dote-de-linaje-nivel-5), [expertise con armadura media](#expertise-con.armadura-media-nivel-13), [incremento de habilidad](#incremento-de-habilidad-nivel-3), [especialización de armas](#especialización-de-armas-nivel-13)
+13       | [Hechizos de nivel 7](#tabla-3-11-hechizos-de-druida-por-día), [dote de linaje](#dote-de-linaje-nivel-5), [expertise con armadura media](#expertise-con-armadura-media-nivel-13), [incremento de habilidad](#incremento-de-habilidad-nivel-3), [especialización de armas](#especialización-de-armas-nivel-13)
 14       | [Dote de druida](#dote-de-druida-nivel-2), [dote de habilidad](#dote-de-habilidad-nivel-2)
 15       | [Hechizos de nivel 8](#tabla-3-11-hechizos-de-druida-por-día), [incremento de habilidad](#incremento-de-características-nivel-5), [dote general](#dote-general-nivel-3),[lanzador de hechizos maestro](#lanzador-de-hechizos-maestro-nivel-15), [incremento de habilidad](#incremento-de-habilidad-nivel-3)
 16       | [Dote de druida](#dote-de-druida-nivel-2), [dote de habilidad](#dote-de-habilidad-nivel-2)

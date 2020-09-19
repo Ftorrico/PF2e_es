@@ -29,7 +29,7 @@ Puedes atacar rápidamente con puños, pies, codos, rodillas y cualquier otro at
 >**Rasgos**: Monje, Flourish  
 >**Descripción**: Haz dos tiradas de ataque desarmado. Si ambos ataques conectan, combina su daño para el cálculo de resistencias y debilidades. Aplica tu penalizador de ataque a estos ataques de forma normal. Como tiene la característica Flourish, solo puedes usar Ráfaga de Golpes una vez por turno.  
 ## Dote de Monje
-A nivel 1 y en cada nivel par, obtienes una dote de clase monje. Las dotes de clase campeón se encuentran descritos comenzando en la página 158
+A nivel 1 y en cada nivel par, obtienes una dote de clase monje. Las dotes de clase monje se encuentran descritos comenzando en la página 158
 ## Puño Poderoso
 Sabes como usar tus puños como armas letales. El dado de daño de tus puños cambia de 1d6 a 1d4. Muchos deben tomar un penalizador de circunstancia -2 cuando quieren realizar un ataque letal con un ataque desarmado no letal, ya que encuentran difícil usar sus puños con fuerza letal. Tu no tienes este penalizador al realizar un ataque letal con tus puños o con cualquier ataque desarmado.
 ## Dote de Habilidad (Nivel 2)

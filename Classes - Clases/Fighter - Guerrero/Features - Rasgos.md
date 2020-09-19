@@ -7,7 +7,7 @@ Tu Nivel | Rasgos de clase
 4        | [Dote de guerrero](#dote-de-guerrero), [dote de habilidad](#dote-de-habilidad-nivel-2)
 5        | [Incremento de características](#incremento-de-características-nivel-5), [dote de linaje](#dote-de-linaje-nivel-5),[maestría con armas de guerrero](#maestría-con-armas-de-guerrero-nivel-5), [incremento de habilidad](#incremento-de-habilidad-nivel-3)
 6        | [Dote de guerrero](#dote-de-guerrero), [dote de habilidad](#dote-de-habilidad-nivel-2)
-7        | [Perito de campo de batalla](#Perito-de-campo-de-batalla-nivel-7), [dote general](#dote-general-nivel-3), [incremento de habilidad](#incremento-de-habilidad-nivel-3),[ especialización de armas](#especialización-de-armas-nivel-7)
+7        | [Perito de campo de batalla](#Perito-del-campo-de-batalla-nivel-7), [dote general](#dote-general-nivel-3), [incremento de habilidad](#incremento-de-habilidad-nivel-3),[ especialización de armas](#especialización-de-armas-nivel-7)
 8        | [Dote de guerrero](#dote-de-guerrero), [dote de habilidad](#dote-de-habilidad-nivel-2)
 9        | [Dote de linaje](#dote-de-linaje-nivel-5),[flexibilidad de combate](#flexibilidad-de-combate-nivel-9),[juggernaut](#juggernaut-nivel-9), [incremento de habilidad](#incremento-de-habilidad-nivel-3)
 10       | [Incremento de características](#incremento-de-características-nivel-5), [dote de guerrero](#dote-de-guerrero), [dote de habilidad](#dote-de-habilidad-nivel-2)

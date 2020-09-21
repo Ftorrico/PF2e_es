@@ -10,7 +10,7 @@ Nombre | Original | Nivel mínimo | Requisito
 [Carnicería con Armas Orcas](#carnicería-con-armas-orcas) | Orc Weapon Carnage | 5 | Familiaridad con Armas Orcas
 [Vigor Victorioso](#vigor-victorioso) | Orc Weapon Carnage | 5 | -
 [Superstición Generalizada](#superstición-generalizada) | Pervasive Superstition | 9 | Superstición Orca
-[Ferocidad Increíble](#ferocidad-increíble) | Pervasive Superstition | 13 | Ferocidad Orca
+[Ferocidad Increíble](#ferocidad-increíble) | Incredible Ferocity | 13 | Ferocidad Orca
 [Expertise con Armas Orcas](#expertise-con-armas-orcas) | Orc Weapon Expertise | 13 | Familiaridad con Armas Orcas
 ## Pacificador Monstruoso
 **Nombre original**: Monstruous Peacemaker  

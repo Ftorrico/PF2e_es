@@ -8,7 +8,7 @@ Nombre | Original | Nivel mínimo | Requisito
 [Superstición Orca](#superstición-orca) | Orc Superstition | 1 | -
 [Familiaridad con Armas Orcas](#familiaridad-con-armas-orcas) | Orc Weapon Familiarity | 1 | -
 [Carnicería con Armas Orcas](#carnicería-con-armas-orcas) | Orc Weapon Carnage | 5 | Familiaridad con Armas Orcas
-[Vigor Victorioso](#vigor-victorioso) | Orc Weapon Carnage | 5 | -
+[Vigor Victorioso](#vigor-victorioso) | Victorious Vigor | 5 | -
 [Superstición Generalizada](#superstición-generalizada) | Pervasive Superstition | 9 | Superstición Orca
 [Ferocidad Increíble](#ferocidad-increíble) | Incredible Ferocity | 13 | Ferocidad Orca
 [Expertise con Armas Orcas](#expertise-con-armas-orcas) | Orc Weapon Expertise | 13 | Familiaridad con Armas Orcas

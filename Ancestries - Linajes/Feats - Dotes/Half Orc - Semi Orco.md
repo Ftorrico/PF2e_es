@@ -71,7 +71,7 @@ Para ti, las armas marciales orcas son armas simples, y las armas avanzadas orca
 **Requisito**: Superstición Orca  
 **Descripción**: Te empapas en superstición y practicas antiguos ejercicios mentales orcos para sobreponerse a los efectos de la magia. Obtienes un bonificador de circunstancia +1 a las tiradas de salvación contra hechizos o efectos mágicos en todo momento.  
 ## Ferocidad Increíble
-**Nombre original**: Pervasive Superstition  
+**Nombre original**: Incredible Ferocity 
 **Tipo**: Capacidad  
 **Nivel**: 13  
 **Tags**: Orco  
